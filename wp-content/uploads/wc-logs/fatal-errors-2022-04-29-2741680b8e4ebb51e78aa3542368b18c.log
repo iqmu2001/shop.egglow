@@ -1,0 +1,20 @@
+2022-04-29T03:36:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_Widget::__construct(), 0 passed in C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-widget-factory.php on line 61 and at least 2 expected in C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-widget.php:162
+Stack trace:
+#0 C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-widget-factory.php(61): WP_Widget->__construct()
+#1 C:\xampp\htdocs\shop.tokoeropa\wp-includes\widgets.php(115): WP_Widget_Factory->register('Accepted_Paymen...')
+#2 C:\xampp\htdocs\shop.tokoeropa\wp-content\plugins\woocommerce-accepted-payment-methods\accepted-payment-methods.php(239): register_widget('Accepted_Paymen...')
+#3 C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-hook.php(307): apm_register_widgets('')
+#4 C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#5 C:\xampp\htdocs\shop.tokoeropa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\shop.tokoeropa\wp-includes\widgets.php(1854): do_action('widgets_init')
+#7 C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-hook.php(307): wp_widgets_init('')
+#8 C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#9 C:\xampp\htdocs\shop.tokoeropa\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#10 C:\xampp\htdocs\shop.tokoeropa\wp-settings.php(587): do_action('init')
+#11 C:\xampp\htdocs\shop.tokoeropa\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\shop.tokoeropa\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\shop.tokoeropa\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\shop.tokoeropa\wp-admin\themes.php(10): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\shop.tokoeropa\wp-includes\class-wp-widget.php on line 162
+

@@ -1,0 +1,1705 @@
+04-29-2022 @ 07:17:43 - ---[ New import started at 2022-04-29 07:17:43 ] PHP Memory: 512 MB, WP Memory: 40 MB
+04-29-2022 @ 07:17:43 - Preparing for import.
+04-29-2022 @ 07:17:43 - Row :1 - Parsing item.
+04-29-2022 @ 07:17:43 - Importing as new product ID:545
+04-29-2022 @ 07:17:43 - Row :1 - Processing item.
+04-29-2022 @ 07:17:43 - Found simple product object. ID:545
+04-29-2022 @ 07:17:43 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_LG_32LM635_V5bCdBPnR.png?updatedAt=1631598512001","https://ik.imagekit.io/eropa/products/32lm635_2_NX8wSJrQU.png?updatedAt=1631614231543","https://ik.imagekit.io/eropa/products/32lm635_3_DVl7vvCrG.png?updatedAt=1631614231142"]
+04-29-2022 @ 07:17:43 - URL:["https://ik.imagekit.io/eropa/products/LED_LG_32LM635_V5bCdBPnR.png?updatedAt=1631598512001","https://ik.imagekit.io/eropa/products/32lm635_2_NX8wSJrQU.png?updatedAt=1631614231543","https://ik.imagekit.io/eropa/products/32lm635_3_DVl7vvCrG.png?updatedAt=1631614231142"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:44 - Row :1 - Product imported successfully.
+04-29-2022 @ 07:17:44 - Row :2 - Parsing item.
+04-29-2022 @ 07:17:44 - Importing as new product ID:546
+04-29-2022 @ 07:17:44 - Row :2 - Processing item.
+04-29-2022 @ 07:17:44 - Found simple product object. ID:546
+04-29-2022 @ 07:17:44 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_32N4001AK_YqqQdSeMS.png?updatedAt=1631599230502","https://ik.imagekit.io/eropa/products/32n4001_2._M6binF2T4.png?updatedAt=1631613828081","https://ik.imagekit.io/eropa/products/32n4001_3_VEV4xMeam.png?updatedAt=1631613827581"]
+04-29-2022 @ 07:17:44 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_32N4001AK_YqqQdSeMS.png?updatedAt=1631599230502","https://ik.imagekit.io/eropa/products/32n4001_2._M6binF2T4.png?updatedAt=1631613828081","https://ik.imagekit.io/eropa/products/32n4001_3_VEV4xMeam.png?updatedAt=1631613827581"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:44 - Row :2 - Product imported successfully.
+04-29-2022 @ 07:17:44 - Row :3 - Parsing item.
+04-29-2022 @ 07:17:44 - Importing as new product ID:547
+04-29-2022 @ 07:17:44 - Row :3 - Processing item.
+04-29-2022 @ 07:17:44 - Found simple product object. ID:547
+04-29-2022 @ 07:17:44 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD43AG9953_Pk1TAIpbC.png?updatedAt=1631600026186","https://ik.imagekit.io/eropa/products/ag9953_3_qz3wtRrugvg.jpg?updatedAt=1631605618905","https://ik.imagekit.io/eropa/products/ag99532_qJneiNZNm.jpg?updatedAt=1631605620268"]
+04-29-2022 @ 07:17:44 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD43AG9953_Pk1TAIpbC.png?updatedAt=1631600026186","https://ik.imagekit.io/eropa/products/ag9953_3_qz3wtRrugvg.jpg?updatedAt=1631605618905","https://ik.imagekit.io/eropa/products/ag99532_qJneiNZNm.jpg?updatedAt=1631605620268"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:44 - Row :3 - Product imported successfully.
+04-29-2022 @ 07:17:44 - Row :4 - Parsing item.
+04-29-2022 @ 07:17:44 - Importing as new product ID:548
+04-29-2022 @ 07:17:44 - Row :4 - Processing item.
+04-29-2022 @ 07:17:44 - Found simple product object. ID:548
+04-29-2022 @ 07:17:44 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_2T-C32BG1I_onlU6bA6Z.png?updatedAt=1631600600722","https://ik.imagekit.io/eropa/products/2TC32BG1X_2_KFkqYoH0f.jpg?updatedAt=1631605110406","https://ik.imagekit.io/eropa/products/2TC32BG1X_3_-csA24814z0.jpg?updatedAt=1631605109564","https://ik.imagekit.io/eropa/products/2TC32BG1X_4_5PLkxhZ6i.jpg?updatedAt=1631605108928"]
+04-29-2022 @ 07:17:44 - URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_2T-C32BG1I_onlU6bA6Z.png?updatedAt=1631600600722","https://ik.imagekit.io/eropa/products/2TC32BG1X_2_KFkqYoH0f.jpg?updatedAt=1631605110406","https://ik.imagekit.io/eropa/products/2TC32BG1X_3_-csA24814z0.jpg?updatedAt=1631605109564","https://ik.imagekit.io/eropa/products/2TC32BG1X_4_5PLkxhZ6i.jpg?updatedAt=1631605108928"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:45 - Row :4 - Product imported successfully.
+04-29-2022 @ 07:17:45 - Row :5 - Parsing item.
+04-29-2022 @ 07:17:45 - Importing as new product ID:549
+04-29-2022 @ 07:17:45 - Row :5 - Processing item.
+04-29-2022 @ 07:17:45 - Found simple product object. ID:549
+04-29-2022 @ 07:17:45 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD24D8511__iQFBRldwM.png?updatedAt=1631616342001","https://ik.imagekit.io/eropa/products/24d8511_VEf9Cl8pJ.jpg?updatedAt=1631616341462"]
+04-29-2022 @ 07:17:45 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD24D8511__iQFBRldwM.png?updatedAt=1631616342001","https://ik.imagekit.io/eropa/products/24d8511_VEf9Cl8pJ.jpg?updatedAt=1631616341462"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:45 - Row :5 - Product imported successfully.
+04-29-2022 @ 07:17:45 - Row :6 - Parsing item.
+04-29-2022 @ 07:17:45 - Importing as new product ID:550
+04-29-2022 @ 07:17:45 - Row :6 - Processing item.
+04-29-2022 @ 07:17:45 - Found simple product object. ID:550
+04-29-2022 @ 07:17:45 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_LC32SA4500__AFRbILqO.png?updatedAt=1631617965686","https://ik.imagekit.io/eropa/products/LC32SA4500Ismart_4_CHlyarDXJ.png?updatedAt=1631617869511","https://ik.imagekit.io/eropa/products/LC32SA4500Ismart_3_6EAFX8CBV.png?updatedAt=1631617868700","https://ik.imagekit.io/eropa/products/LC32SA4500Ismart_2_NQt2sYn17.png?updatedAt=1631617867967"]
+04-29-2022 @ 07:17:45 - URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_LC32SA4500__AFRbILqO.png?updatedAt=1631617965686","https://ik.imagekit.io/eropa/products/LC32SA4500Ismart_4_CHlyarDXJ.png?updatedAt=1631617869511","https://ik.imagekit.io/eropa/products/LC32SA4500Ismart_3_6EAFX8CBV.png?updatedAt=1631617868700","https://ik.imagekit.io/eropa/products/LC32SA4500Ismart_2_NQt2sYn17.png?updatedAt=1631617867967"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:45 - Row :6 - Product imported successfully.
+04-29-2022 @ 07:17:45 - Row :7 - Parsing item.
+04-29-2022 @ 07:17:45 - Importing as new product ID:551
+04-29-2022 @ 07:17:45 - Row :7 - Processing item.
+04-29-2022 @ 07:17:45 - Found simple product object. ID:551
+04-29-2022 @ 07:17:45 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_AQRD190LB_l-Fwh0I8c.png?updatedAt=1631623316133","https://ik.imagekit.io/eropa/products/190lb_2_wkqGplp30.png?updatedAt=1631623350664"]
+04-29-2022 @ 07:17:45 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_AQRD190LB_l-Fwh0I8c.png?updatedAt=1631623316133","https://ik.imagekit.io/eropa/products/190lb_2_wkqGplp30.png?updatedAt=1631623350664"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:46 - Row :7 - Product imported successfully.
+04-29-2022 @ 07:17:46 - Row :8 - Parsing item.
+04-29-2022 @ 07:17:46 - Importing as new product ID:552
+04-29-2022 @ 07:17:46 - Row :8 - Processing item.
+04-29-2022 @ 07:17:46 - Found simple product object. ID:552
+04-29-2022 @ 07:17:46 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GNB195SQ-MT_cNyEIIXpm.png?updatedAt=1631626643020","https://ik.imagekit.io/eropa/products/Kulkas_LG_GNB195SQ-MT_hXwPnXYFo.png?updatedAt=1631626643194"]
+04-29-2022 @ 07:17:46 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GNB195SQ-MT_cNyEIIXpm.png?updatedAt=1631626643020","https://ik.imagekit.io/eropa/products/Kulkas_LG_GNB195SQ-MT_hXwPnXYFo.png?updatedAt=1631626643194"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:46 - Row :8 - Product imported successfully.
+04-29-2022 @ 07:17:46 - Row :9 - Parsing item.
+04-29-2022 @ 07:17:46 - Importing as new product ID:553
+04-29-2022 @ 07:17:46 - Row :9 - Processing item.
+04-29-2022 @ 07:17:46 - Found simple product object. ID:553
+04-29-2022 @ 07:17:46 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB289B_hwbES19uS8e.png?updatedAt=1631627883681","https://ik.imagekit.io/eropa/products/289b_2_BTiohDCs8.png?updatedAt=1631627884253"]
+04-29-2022 @ 07:17:46 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB289B_hwbES19uS8e.png?updatedAt=1631627883681","https://ik.imagekit.io/eropa/products/289b_2_BTiohDCs8.png?updatedAt=1631627884253"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:46 - Row :9 - Product imported successfully.
+04-29-2022 @ 07:17:46 - Row :10 - Parsing item.
+04-29-2022 @ 07:17:46 - Importing as new product ID:554
+04-29-2022 @ 07:17:46 - Row :10 - Processing item.
+04-29-2022 @ 07:17:46 - Found simple product object. ID:554
+04-29-2022 @ 07:17:46 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJN162DSH_BntIpo9A7.png?updatedAt=1631628939302","https://ik.imagekit.io/eropa/products/162dsp-removebg-preview_T04iibcte.png?updatedAt=1631628938836"]
+04-29-2022 @ 07:17:46 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJN162DSH_BntIpo9A7.png?updatedAt=1631628939302","https://ik.imagekit.io/eropa/products/162dsp-removebg-preview_T04iibcte.png?updatedAt=1631628938836"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:47 - Row :10 - Product imported successfully.
+04-29-2022 @ 07:17:47 - Preparing for import.
+04-29-2022 @ 07:17:47 - Row :11 - Parsing item.
+04-29-2022 @ 07:17:47 - Importing as new product ID:555
+04-29-2022 @ 07:17:47 - Row :11 - Processing item.
+04-29-2022 @ 07:17:47 - Found simple product object. ID:555
+04-29-2022 @ 07:17:47 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS460B_SBS__e6DfMnBuH.png?updatedAt=1631630720294","https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS460B_SBS__2_gTllCH9y8.png?updatedAt=1631630721674","https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS460B_SBS__3_V0KeY-khY.png?updatedAt=1631630720841"]
+04-29-2022 @ 07:17:47 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS460B_SBS__e6DfMnBuH.png?updatedAt=1631630720294","https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS460B_SBS__2_gTllCH9y8.png?updatedAt=1631630721674","https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS460B_SBS__3_V0KeY-khY.png?updatedAt=1631630720841"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:48 - Row :11 - Product imported successfully.
+04-29-2022 @ 07:17:48 - Row :12 - Parsing item.
+04-29-2022 @ 07:17:48 - Importing as new product ID:556
+04-29-2022 @ 07:17:48 - Row :12 - Processing item.
+04-29-2022 @ 07:17:48 - Found simple product object. ID:556
+04-29-2022 @ 07:17:48 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Nr_bb231q_s_pk_lBAJs89kT.png?updatedAt=1631631677066","https://ik.imagekit.io/eropa/products/panasonic_bb231q-removebg-preview_1__EmheFGX-c.png?updatedAt=1631631777134"]
+04-29-2022 @ 07:17:48 - URL:["https://ik.imagekit.io/eropa/products/Nr_bb231q_s_pk_lBAJs89kT.png?updatedAt=1631631677066","https://ik.imagekit.io/eropa/products/panasonic_bb231q-removebg-preview_1__EmheFGX-c.png?updatedAt=1631631777134"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:48 - Row :12 - Product imported successfully.
+04-29-2022 @ 07:17:48 - Row :13 - Parsing item.
+04-29-2022 @ 07:17:48 - Importing as new product ID:557
+04-29-2022 @ 07:17:48 - Row :13 - Processing item.
+04-29-2022 @ 07:17:48 - Found simple product object. ID:557
+04-29-2022 @ 07:17:48 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI301S_TtefIY6Vu.png?updatedAt=1631635614701","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI301S_2_GVyF76kqV.png?updatedAt=1631635678799"]
+04-29-2022 @ 07:17:48 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI301S_TtefIY6Vu.png?updatedAt=1631635614701","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI301S_2_GVyF76kqV.png?updatedAt=1631635678799"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:48 - Row :13 - Product imported successfully.
+04-29-2022 @ 07:17:48 - Row :14 - Parsing item.
+04-29-2022 @ 07:17:48 - Importing as new product ID:558
+04-29-2022 @ 07:17:48 - Row :14 - Processing item.
+04-29-2022 @ 07:17:48 - Found simple product object. ID:558
+04-29-2022 @ 07:17:48 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI522S_oEMCOIBhg.png?updatedAt=1631636325760","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI522S_2_nDuTUOChn.png?updatedAt=1631636407237"]
+04-29-2022 @ 07:17:48 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI522S_oEMCOIBhg.png?updatedAt=1631636325760","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI522S_2_nDuTUOChn.png?updatedAt=1631636407237"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:49 - Row :14 - Product imported successfully.
+04-29-2022 @ 07:17:49 - Row :15 - Parsing item.
+04-29-2022 @ 07:17:49 - Importing as new product ID:559
+04-29-2022 @ 07:17:49 - Row :15 - Processing item.
+04-29-2022 @ 07:17:49 - Found simple product object. ID:559
+04-29-2022 @ 07:17:49 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG201C_dk8r3PbJs.png?updatedAt=1631636500964","https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG201C_4_SViMakAgv.png?updatedAt=1631636501452","https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG201C_3_1MilEXnEm.png?updatedAt=1631636502446"]
+04-29-2022 @ 07:17:49 - URL:["https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG201C_dk8r3PbJs.png?updatedAt=1631636500964","https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG201C_4_SViMakAgv.png?updatedAt=1631636501452","https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG201C_3_1MilEXnEm.png?updatedAt=1631636502446"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:49 - Row :15 - Product imported successfully.
+04-29-2022 @ 07:17:49 - Row :16 - Parsing item.
+04-29-2022 @ 07:17:49 - Importing as new product ID:560
+04-29-2022 @ 07:17:49 - Row :16 - Processing item.
+04-29-2022 @ 07:17:49 - Found simple product object. ID:560
+04-29-2022 @ 07:17:49 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511A_sbHECnI_S.png?updatedAt=1631637043221","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511A_2_SVARIa5LP.png?updatedAt=1631637347893"]
+04-29-2022 @ 07:17:49 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511A_sbHECnI_S.png?updatedAt=1631637043221","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511A_2_SVARIa5LP.png?updatedAt=1631637347893"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:49 - Row :16 - Product imported successfully.
+04-29-2022 @ 07:17:49 - Row :17 - Parsing item.
+04-29-2022 @ 07:17:49 - Importing as new product ID:561
+04-29-2022 @ 07:17:49 - Row :17 - Processing item.
+04-29-2022 @ 07:17:49 - Found simple product object. ID:561
+04-29-2022 @ 07:17:49 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI522E_pDMTmbMrO.png?updatedAt=1631637519275"]
+04-29-2022 @ 07:17:49 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI522E_pDMTmbMrO.png?updatedAt=1631637519275"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:50 - Row :17 - Product imported successfully.
+04-29-2022 @ 07:17:50 - Row :18 - Parsing item.
+04-29-2022 @ 07:17:50 - Importing as new product ID:562
+04-29-2022 @ 07:17:50 - Row :18 - Processing item.
+04-29-2022 @ 07:17:50 - Found simple product object. ID:562
+04-29-2022 @ 07:17:50 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI712BGX_PEcjI_-gJ.png?updatedAt=1631638122091","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI712BGX_2_YNsT9rKnX.png?updatedAt=1631638196961"]
+04-29-2022 @ 07:17:50 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI712BGX_PEcjI_-gJ.png?updatedAt=1631638122091","https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI712BGX_2_YNsT9rKnX.png?updatedAt=1631638196961"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:50 - Row :18 - Product imported successfully.
+04-29-2022 @ 07:17:50 - Row :19 - Parsing item.
+04-29-2022 @ 07:17:50 - Importing as new product ID:563
+04-29-2022 @ 07:17:50 - Row :19 - Processing item.
+04-29-2022 @ 07:17:50 - Found simple product object. ID:563
+04-29-2022 @ 07:17:50 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Water_Heater_MODENA_ES10CS_NVAviO91B.png?updatedAt=1631639582856","https://ik.imagekit.io/eropa/products/modena_10cs_DgG4FDTip.png?updatedAt=1631639583253"]
+04-29-2022 @ 07:17:50 - URL:["https://ik.imagekit.io/eropa/products/Water_Heater_MODENA_ES10CS_NVAviO91B.png?updatedAt=1631639582856","https://ik.imagekit.io/eropa/products/modena_10cs_DgG4FDTip.png?updatedAt=1631639583253"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:50 - Row :19 - Product imported successfully.
+04-29-2022 @ 07:17:50 - Row :20 - Parsing item.
+04-29-2022 @ 07:17:50 - Importing as new product ID:564
+04-29-2022 @ 07:17:50 - Row :20 - Processing item.
+04-29-2022 @ 07:17:50 - Found simple product object. ID:564
+04-29-2022 @ 07:17:50 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Water_Heater_MODENA_ES15CS_4smNWI9Tf.png?updatedAt=1631640009676","https://ik.imagekit.io/eropa/products/modena_15_cs_yqTh3Vo0_.png?updatedAt=1631640010180"]
+04-29-2022 @ 07:17:50 - URL:["https://ik.imagekit.io/eropa/products/Water_Heater_MODENA_ES15CS_4smNWI9Tf.png?updatedAt=1631640009676","https://ik.imagekit.io/eropa/products/modena_15_cs_yqTh3Vo0_.png?updatedAt=1631640010180"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:51 - Row :20 - Product imported successfully.
+04-29-2022 @ 07:17:51 - Preparing for import.
+04-29-2022 @ 07:17:51 - Row :21 - Parsing item.
+04-29-2022 @ 07:17:51 - Importing as new product ID:565
+04-29-2022 @ 07:17:51 - Row :21 - Processing item.
+04-29-2022 @ 07:17:51 - Found simple product object. ID:565
+04-29-2022 @ 07:17:51 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/SHARP_VACUUM_CLEANER_EC-CW60_cJjT0yTvB.png?updatedAt=1631674106710","https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC_CW60_2_JWdvB5OkPCv.png?updatedAt=1631674105857","https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC_CW60_3_yd_Dokgpf.png?updatedAt=1631674105678"]
+04-29-2022 @ 07:17:51 - URL:["https://ik.imagekit.io/eropa/products/SHARP_VACUUM_CLEANER_EC-CW60_cJjT0yTvB.png?updatedAt=1631674106710","https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC_CW60_2_JWdvB5OkPCv.png?updatedAt=1631674105857","https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC_CW60_3_yd_Dokgpf.png?updatedAt=1631674105678"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:52 - Row :21 - Product imported successfully.
+04-29-2022 @ 07:17:52 - Row :22 - Parsing item.
+04-29-2022 @ 07:17:52 - Importing as new product ID:566
+04-29-2022 @ 07:17:52 - Row :22 - Processing item.
+04-29-2022 @ 07:17:52 - Found simple product object. ID:566
+04-29-2022 @ 07:17:52 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Vacuum_MODENA_VC2125_VcFR0N0Me.png?updatedAt=1631675727386","https://ik.imagekit.io/eropa/products/Vacuum_MODENA_VC2125_3_4rw2RaL9wsr.png?updatedAt=1631675726628","https://ik.imagekit.io/eropa/products/Vacuum_MODENA_VC2125_2_eiO_vUxHa.png?updatedAt=1631675726228"]
+04-29-2022 @ 07:17:52 - URL:["https://ik.imagekit.io/eropa/products/Vacuum_MODENA_VC2125_VcFR0N0Me.png?updatedAt=1631675727386","https://ik.imagekit.io/eropa/products/Vacuum_MODENA_VC2125_3_4rw2RaL9wsr.png?updatedAt=1631675726628","https://ik.imagekit.io/eropa/products/Vacuum_MODENA_VC2125_2_eiO_vUxHa.png?updatedAt=1631675726228"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:52 - Row :22 - Product imported successfully.
+04-29-2022 @ 07:17:52 - Row :23 - Parsing item.
+04-29-2022 @ 07:17:52 - Importing as new product ID:567
+04-29-2022 @ 07:17:52 - Row :23 - Processing item.
+04-29-2022 @ 07:17:52 - Found simple product object. ID:567
+04-29-2022 @ 07:17:52 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP160_MguYX78-7.png?updatedAt=1631762946585","https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP160_3_0Vs0JIvLXJe.png?updatedAt=1631762947029"]
+04-29-2022 @ 07:17:52 - URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP160_MguYX78-7.png?updatedAt=1631762946585","https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP160_3_0Vs0JIvLXJe.png?updatedAt=1631762947029"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:52 - Row :23 - Product imported successfully.
+04-29-2022 @ 07:17:52 - Row :24 - Parsing item.
+04-29-2022 @ 07:17:52 - Importing as new product ID:568
+04-29-2022 @ 07:17:52 - Row :24 - Processing item.
+04-29-2022 @ 07:17:52 - Found simple product object. ID:568
+04-29-2022 @ 07:17:52 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP125_pCen23nt0.png?updatedAt=1631763726132","https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP125_2_O1kIOjxCK.png?updatedAt=1631763728639","https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP125_3__PF42LMRE7b.png?updatedAt=1631763727828"]
+04-29-2022 @ 07:17:52 - URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP125_pCen23nt0.png?updatedAt=1631763726132","https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP125_2_O1kIOjxCK.png?updatedAt=1631763728639","https://ik.imagekit.io/eropa/products/Air_Purifyer_POLYTRON_PAP125_3__PF42LMRE7b.png?updatedAt=1631763727828"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:53 - Row :24 - Product imported successfully.
+04-29-2022 @ 07:17:53 - Row :25 - Parsing item.
+04-29-2022 @ 07:17:53 - Importing as new product ID:569
+04-29-2022 @ 07:17:53 - Row :25 - Processing item.
+04-29-2022 @ 07:17:53 - Found simple product object. ID:569
+04-29-2022 @ 07:17:53 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Cooler_SHARP_PJA77TY_9no-H0iGLhK.png?updatedAt=1631764717995","https://ik.imagekit.io/eropa/products/Air_Cooler_SHARP_PJA77TY_2_gNgSQAgNK.png?updatedAt=1631764716591","https://ik.imagekit.io/eropa/products/Air_Cooler_SHARP_PJA77TY_3_VLAcbUWt2.png?updatedAt=1631764717023"]
+04-29-2022 @ 07:17:53 - URL:["https://ik.imagekit.io/eropa/products/Air_Cooler_SHARP_PJA77TY_9no-H0iGLhK.png?updatedAt=1631764717995","https://ik.imagekit.io/eropa/products/Air_Cooler_SHARP_PJA77TY_2_gNgSQAgNK.png?updatedAt=1631764716591","https://ik.imagekit.io/eropa/products/Air_Cooler_SHARP_PJA77TY_3_VLAcbUWt2.png?updatedAt=1631764717023"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:53 - Row :25 - Product imported successfully.
+04-29-2022 @ 07:17:53 - Row :26 - Parsing item.
+04-29-2022 @ 07:17:53 - Importing as new product ID:570
+04-29-2022 @ 07:17:53 - Row :26 - Processing item.
+04-29-2022 @ 07:17:53 - Found simple product object. ID:570
+04-29-2022 @ 07:17:53 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Stand_Fan_COSMOS_16SNQ_mTDXJFtva.png?updatedAt=1631769780562","https://ik.imagekit.io/eropa/products/Stand_Fan_COSMOS_16SNQ_2_Ps1TjwPbT.png?updatedAt=1631769779863"]
+04-29-2022 @ 07:17:53 - URL:["https://ik.imagekit.io/eropa/products/Stand_Fan_COSMOS_16SNQ_mTDXJFtva.png?updatedAt=1631769780562","https://ik.imagekit.io/eropa/products/Stand_Fan_COSMOS_16SNQ_2_Ps1TjwPbT.png?updatedAt=1631769779863"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:53 - Row :26 - Product imported successfully.
+04-29-2022 @ 07:17:53 - Row :27 - Parsing item.
+04-29-2022 @ 07:17:53 - Importing as new product ID:571
+04-29-2022 @ 07:17:54 - Row :27 - Processing item.
+04-29-2022 @ 07:17:54 - Found simple product object. ID:571
+04-29-2022 @ 07:17:54 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_GMC_703_AlEBH6cKV.png?updatedAt=1631774772176","https://ik.imagekit.io/eropa/products/gmc_703_1_uOUx4Zj2dDo.png?updatedAt=1631774771560"]
+04-29-2022 @ 07:17:54 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_GMC_703_AlEBH6cKV.png?updatedAt=1631774772176","https://ik.imagekit.io/eropa/products/gmc_703_1_uOUx4Zj2dDo.png?updatedAt=1631774771560"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:54 - Row :27 - Product imported successfully.
+04-29-2022 @ 07:17:54 - Row :28 - Parsing item.
+04-29-2022 @ 07:17:54 - Importing as new product ID:572
+04-29-2022 @ 07:17:54 - Row :28 - Processing item.
+04-29-2022 @ 07:17:54 - Found simple product object. ID:572
+04-29-2022 @ 07:17:54 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_miyako_kad927_Ht3-plbu0hx.png?updatedAt=1631777307929","https://ik.imagekit.io/eropa/products/Deskfan_miyako_kad927_2_MsYgYITGg.png?updatedAt=1631777306294","https://ik.imagekit.io/eropa/products/Deskfan_miyako_kad927_3_8Erhp07Pb.png?updatedAt=1631777306880"]
+04-29-2022 @ 07:17:54 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_miyako_kad927_Ht3-plbu0hx.png?updatedAt=1631777307929","https://ik.imagekit.io/eropa/products/Deskfan_miyako_kad927_2_MsYgYITGg.png?updatedAt=1631777306294","https://ik.imagekit.io/eropa/products/Deskfan_miyako_kad927_3_8Erhp07Pb.png?updatedAt=1631777306880"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:54 - Row :28 - Product imported successfully.
+04-29-2022 @ 07:17:54 - Row :29 - Parsing item.
+04-29-2022 @ 07:17:54 - Importing as new product ID:573
+04-29-2022 @ 07:17:54 - Row :29 - Processing item.
+04-29-2022 @ 07:17:54 - Found simple product object. ID:573
+04-29-2022 @ 07:17:54 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_MIYAKO_EI1008M_RedDlRlDM.png?updatedAt=1631845804918","https://ik.imagekit.io/eropa/products/MIYAKO_EI-1008M_2_HKOPZL_0e.png?updatedAt=1631845803142","https://ik.imagekit.io/eropa/products/MIYAKO_EI-1008M_3__DVWoewxOKZ.png?updatedAt=1631845803744"]
+04-29-2022 @ 07:17:54 - URL:["https://ik.imagekit.io/eropa/products/Setrika_MIYAKO_EI1008M_RedDlRlDM.png?updatedAt=1631845804918","https://ik.imagekit.io/eropa/products/MIYAKO_EI-1008M_2_HKOPZL_0e.png?updatedAt=1631845803142","https://ik.imagekit.io/eropa/products/MIYAKO_EI-1008M_3__DVWoewxOKZ.png?updatedAt=1631845803744"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:55 - Row :29 - Product imported successfully.
+04-29-2022 @ 07:17:55 - Row :30 - Parsing item.
+04-29-2022 @ 07:17:55 - Importing as new product ID:574
+04-29-2022 @ 07:17:55 - Row :30 - Processing item.
+04-29-2022 @ 07:17:55 - Found simple product object. ID:574
+04-29-2022 @ 07:17:55 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_Maspion_EX1000_aPEUF7piAdm.png?updatedAt=1631846422142","https://ik.imagekit.io/eropa/products/MASPION_EX1000_2_dsEdhWNW9xV.png?updatedAt=1631846421288","https://ik.imagekit.io/eropa/products/MASPION_EX1000_1_I54Rjlhmc.png?updatedAt=1631846420769"]
+04-29-2022 @ 07:17:55 - URL:["https://ik.imagekit.io/eropa/products/Setrika_Maspion_EX1000_aPEUF7piAdm.png?updatedAt=1631846422142","https://ik.imagekit.io/eropa/products/MASPION_EX1000_2_dsEdhWNW9xV.png?updatedAt=1631846421288","https://ik.imagekit.io/eropa/products/MASPION_EX1000_1_I54Rjlhmc.png?updatedAt=1631846420769"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:55 - Row :30 - Product imported successfully.
+04-29-2022 @ 07:17:56 - Preparing for import.
+04-29-2022 @ 07:17:56 - Row :31 - Parsing item.
+04-29-2022 @ 07:17:56 - Importing as new product ID:575
+04-29-2022 @ 07:17:56 - Row :31 - Processing item.
+04-29-2022 @ 07:17:56 - Found simple product object. ID:575
+04-29-2022 @ 07:17:56 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_PHILIPS_HD1172_UWX8ADwUE.png?updatedAt=1631853272443","https://ik.imagekit.io/eropa/products/Setrika_Philips_HD1172_2_nSH53HGjX.png?updatedAt=1631853271389","https://ik.imagekit.io/eropa/products/Setrika_Philips_HD1172_3_X5eiHAKdhd5.png?updatedAt=1631853271469"]
+04-29-2022 @ 07:17:56 - URL:["https://ik.imagekit.io/eropa/products/Setrika_PHILIPS_HD1172_UWX8ADwUE.png?updatedAt=1631853272443","https://ik.imagekit.io/eropa/products/Setrika_Philips_HD1172_2_nSH53HGjX.png?updatedAt=1631853271389","https://ik.imagekit.io/eropa/products/Setrika_Philips_HD1172_3_X5eiHAKdhd5.png?updatedAt=1631853271469"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:56 - Row :31 - Product imported successfully.
+04-29-2022 @ 07:17:56 - Row :32 - Parsing item.
+04-29-2022 @ 07:17:56 - Importing as new product ID:576
+04-29-2022 @ 07:17:56 - Row :32 - Processing item.
+04-29-2022 @ 07:17:56 - Found simple product object. ID:576
+04-29-2022 @ 07:17:56 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_cosmos_CIS_438_R4Kg7fcjd.png?updatedAt=1631854331028","https://ik.imagekit.io/eropa/products/Setrika_cosmos_CIS_438_R4Kg7fcjd.png?updatedAt=1631854331028","https://ik.imagekit.io/eropa/products/COSMOS_CIS_438_2_spo31lz3qUl.png?updatedAt=1631854334233"]
+04-29-2022 @ 07:17:56 - URL:["https://ik.imagekit.io/eropa/products/Setrika_cosmos_CIS_438_R4Kg7fcjd.png?updatedAt=1631854331028","https://ik.imagekit.io/eropa/products/Setrika_cosmos_CIS_438_R4Kg7fcjd.png?updatedAt=1631854331028","https://ik.imagekit.io/eropa/products/COSMOS_CIS_438_2_spo31lz3qUl.png?updatedAt=1631854334233"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:57 - Row :32 - Product imported successfully.
+04-29-2022 @ 07:17:57 - Row :33 - Parsing item.
+04-29-2022 @ 07:17:57 - Importing as new product ID:577
+04-29-2022 @ 07:17:57 - Row :33 - Processing item.
+04-29-2022 @ 07:17:57 - Found simple product object. ID:577
+04-29-2022 @ 07:17:57 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_Maspion_HA-110_x9-_TX8uG.png?updatedAt=1631854838016","https://ik.imagekit.io/eropa/products/Maspion_HA_110_2_yNu1PZZ7yHdf.png?updatedAt=1631854837805","https://ik.imagekit.io/eropa/products/Maspion_HA_110_1_r7grBNF1z.png?updatedAt=1631854831929"]
+04-29-2022 @ 07:17:57 - URL:["https://ik.imagekit.io/eropa/products/Setrika_Maspion_HA-110_x9-_TX8uG.png?updatedAt=1631854838016","https://ik.imagekit.io/eropa/products/Maspion_HA_110_2_yNu1PZZ7yHdf.png?updatedAt=1631854837805","https://ik.imagekit.io/eropa/products/Maspion_HA_110_1_r7grBNF1z.png?updatedAt=1631854831929"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:57 - Row :33 - Product imported successfully.
+04-29-2022 @ 07:17:57 - Row :34 - Parsing item.
+04-29-2022 @ 07:17:57 - Importing as new product ID:578
+04-29-2022 @ 07:17:57 - Row :34 - Processing item.
+04-29-2022 @ 07:17:57 - Found simple product object. ID:578
+04-29-2022 @ 07:17:57 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_TURBO_EHL3019_7M2xwrBae-3.png?updatedAt=1631864698372","https://ik.imagekit.io/eropa/products/Setrika_TURBO_EHL3019_7M2xwrBae-3.png?updatedAt=1631864698372","https://ik.imagekit.io/eropa/products/Setrika_TURBO_EHL3019_3_CLdm4yNjJ.png?updatedAt=1631864697676"]
+04-29-2022 @ 07:17:57 - URL:["https://ik.imagekit.io/eropa/products/Setrika_TURBO_EHL3019_7M2xwrBae-3.png?updatedAt=1631864698372","https://ik.imagekit.io/eropa/products/Setrika_TURBO_EHL3019_7M2xwrBae-3.png?updatedAt=1631864698372","https://ik.imagekit.io/eropa/products/Setrika_TURBO_EHL3019_3_CLdm4yNjJ.png?updatedAt=1631864697676"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:57 - Row :34 - Product imported successfully.
+04-29-2022 @ 07:17:57 - Row :35 - Parsing item.
+04-29-2022 @ 07:17:58 - Importing as new product ID:579
+04-29-2022 @ 07:17:58 - Row :35 - Processing item.
+04-29-2022 @ 07:17:58 - Found simple product object. ID:579
+04-29-2022 @ 07:17:58 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW950R_f1-BRl3Xssk.png?updatedAt=1631930731476","https://ik.imagekit.io/eropa/products/AQW950R_3_6UQ_BVsue.png?updatedAt=1631930730055","https://ik.imagekit.io/eropa/products/AQW950R_2_k1sKp4uFU.png?updatedAt=1631930729653"]
+04-29-2022 @ 07:17:58 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW950R_f1-BRl3Xssk.png?updatedAt=1631930731476","https://ik.imagekit.io/eropa/products/AQW950R_3_6UQ_BVsue.png?updatedAt=1631930730055","https://ik.imagekit.io/eropa/products/AQW950R_2_k1sKp4uFU.png?updatedAt=1631930729653"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:58 - Row :35 - Product imported successfully.
+04-29-2022 @ 07:17:58 - Row :36 - Parsing item.
+04-29-2022 @ 07:17:58 - Importing as new product ID:580
+04-29-2022 @ 07:17:58 - Row :36 - Processing item.
+04-29-2022 @ 07:17:58 - Found simple product object. ID:580
+04-29-2022 @ 07:17:58 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW145FCV1_nr2SPDqG5.png?updatedAt=1631932576914","https://ik.imagekit.io/eropa/products/MESIN_CUCI_NAW145FCV1_2_YFLAjXOhuUr.png?updatedAt=1631932575832","https://ik.imagekit.io/eropa/products/MESIN_CUCI_NAW145FCV1_3_jJEEMgJWT.png?updatedAt=1631932576202"]
+04-29-2022 @ 07:17:58 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW145FCV1_nr2SPDqG5.png?updatedAt=1631932576914","https://ik.imagekit.io/eropa/products/MESIN_CUCI_NAW145FCV1_2_YFLAjXOhuUr.png?updatedAt=1631932575832","https://ik.imagekit.io/eropa/products/MESIN_CUCI_NAW145FCV1_3_jJEEMgJWT.png?updatedAt=1631932576202"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:58 - Row :36 - Product imported successfully.
+04-29-2022 @ 07:17:58 - Row :37 - Parsing item.
+04-29-2022 @ 07:17:59 - Importing as new product ID:581
+04-29-2022 @ 07:17:59 - Row :37 - Processing item.
+04-29-2022 @ 07:17:59 - Found simple product object. ID:581
+04-29-2022 @ 07:17:59 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST65MW-GK_9KRv63vRD.png?updatedAt=1631938405632","https://ik.imagekit.io/eropa/products/Mesin_Cuci_Sharp_ES_T65MW_GK_2_fbiC7KG4z.png?updatedAt=1631938404167","https://ik.imagekit.io/eropa/products/Mesin_Cuci_Sharp_ES_T65MW_GK_3_Rg4zI2xep.png?updatedAt=1631938404970"]
+04-29-2022 @ 07:17:59 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST65MW-GK_9KRv63vRD.png?updatedAt=1631938405632","https://ik.imagekit.io/eropa/products/Mesin_Cuci_Sharp_ES_T65MW_GK_2_fbiC7KG4z.png?updatedAt=1631938404167","https://ik.imagekit.io/eropa/products/Mesin_Cuci_Sharp_ES_T65MW_GK_3_Rg4zI2xep.png?updatedAt=1631938404970"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:59 - Row :37 - Product imported successfully.
+04-29-2022 @ 07:17:59 - Row :38 - Parsing item.
+04-29-2022 @ 07:17:59 - Importing as new product ID:582
+04-29-2022 @ 07:17:59 - Row :38 - Processing item.
+04-29-2022 @ 07:17:59 - Found simple product object. ID:582
+04-29-2022 @ 07:17:59 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM701_R_PhnFX50eC.png?updatedAt=1631940762045"]
+04-29-2022 @ 07:17:59 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM701_R_PhnFX50eC.png?updatedAt=1631940762045"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:17:59 - Row :38 - Product imported successfully.
+04-29-2022 @ 07:17:59 - Row :39 - Parsing item.
+04-29-2022 @ 07:17:59 - Importing as new product ID:583
+04-29-2022 @ 07:17:59 - Row :39 - Processing item.
+04-29-2022 @ 07:17:59 - Found simple product object. ID:583
+04-29-2022 @ 07:17:59 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM701B_EiP0VO1AdDj.png?updatedAt=1631940762554"]
+04-29-2022 @ 07:17:59 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM701B_EiP0VO1AdDj.png?updatedAt=1631940762554"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:00 - Row :39 - Product imported successfully.
+04-29-2022 @ 07:18:00 - Row :40 - Parsing item.
+04-29-2022 @ 07:18:00 - Importing as new product ID:584
+04-29-2022 @ 07:18:00 - Row :40 - Processing item.
+04-29-2022 @ 07:18:00 - Found simple product object. ID:584
+04-29-2022 @ 07:18:00 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW105825QD_WwwKwllhM.png?updatedAt=1631941735341","https://ik.imagekit.io/eropa/products/AQW105825QD_2_M_t9Mqpi5.png?updatedAt=1631941732291","https://ik.imagekit.io/eropa/products/AQW105825QD_3_kIaYmqqLQs7.png?updatedAt=1631941734548","https://ik.imagekit.io/eropa/products/AQW105825QD_4_4cKVii8l4.png?updatedAt=1631941734245"]
+04-29-2022 @ 07:18:00 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW105825QD_WwwKwllhM.png?updatedAt=1631941735341","https://ik.imagekit.io/eropa/products/AQW105825QD_2_M_t9Mqpi5.png?updatedAt=1631941732291","https://ik.imagekit.io/eropa/products/AQW105825QD_3_kIaYmqqLQs7.png?updatedAt=1631941734548","https://ik.imagekit.io/eropa/products/AQW105825QD_4_4cKVii8l4.png?updatedAt=1631941734245"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:00 - Row :40 - Product imported successfully.
+04-29-2022 @ 07:18:02 - Preparing for import.
+04-29-2022 @ 07:18:02 - Row :41 - Parsing item.
+04-29-2022 @ 07:18:03 - Importing as new product ID:585
+04-29-2022 @ 07:18:03 - Row :41 - Processing item.
+04-29-2022 @ 07:18:03 - Found simple product object. ID:585
+04-29-2022 @ 07:18:03 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Chopper_MITOCHIBA_CH200_NouUBWqA7.png?updatedAt=1631945454924","https://ik.imagekit.io/eropa/products/CH200_3_t_L_6i08k.png?updatedAt=1631945454012","https://ik.imagekit.io/eropa/products/CH200_2_N4akGyW0qo3.png?updatedAt=1631945453664"]
+04-29-2022 @ 07:18:03 - URL:["https://ik.imagekit.io/eropa/products/Chopper_MITOCHIBA_CH200_NouUBWqA7.png?updatedAt=1631945454924","https://ik.imagekit.io/eropa/products/CH200_3_t_L_6i08k.png?updatedAt=1631945454012","https://ik.imagekit.io/eropa/products/CH200_2_N4akGyW0qo3.png?updatedAt=1631945453664"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:03 - Row :41 - Product imported successfully.
+04-29-2022 @ 07:18:03 - Row :42 - Parsing item.
+04-29-2022 @ 07:18:03 - Importing as new product ID:586
+04-29-2022 @ 07:18:03 - Row :42 - Processing item.
+04-29-2022 @ 07:18:03 - Found simple product object. ID:586
+04-29-2022 @ 07:18:03 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb282p_Stf9jAQU5.png?updatedAt=1631948596796","https://ik.imagekit.io/eropa/products/Blender_Cosmos_CB_282_P_2_OQyTAG_EE.png?updatedAt=1631948595349","https://ik.imagekit.io/eropa/products/Blender_Cosmos_CB_282_P_3_Kdi3uG5zg.png?updatedAt=1631948595791"]
+04-29-2022 @ 07:18:03 - URL:["https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb282p_Stf9jAQU5.png?updatedAt=1631948596796","https://ik.imagekit.io/eropa/products/Blender_Cosmos_CB_282_P_2_OQyTAG_EE.png?updatedAt=1631948595349","https://ik.imagekit.io/eropa/products/Blender_Cosmos_CB_282_P_3_Kdi3uG5zg.png?updatedAt=1631948595791"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:03 - Row :42 - Product imported successfully.
+04-29-2022 @ 07:18:03 - Row :43 - Parsing item.
+04-29-2022 @ 07:18:03 - Importing as new product ID:587
+04-29-2022 @ 07:18:03 - Row :43 - Processing item.
+04-29-2022 @ 07:18:03 - Found simple product object. ID:587
+04-29-2022 @ 07:18:03 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_SYO5AaMmU.png?updatedAt=1631950455278","https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_2_D5v80kp8K.png?updatedAt=1631950452140","https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_3_7vCLI9QaC.png?updatedAt=1631950452398","https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_4_VNV57wW7S.png?updatedAt=1631950453345"]
+04-29-2022 @ 07:18:03 - URL:["https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_SYO5AaMmU.png?updatedAt=1631950455278","https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_2_D5v80kp8K.png?updatedAt=1631950452140","https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_3_7vCLI9QaC.png?updatedAt=1631950452398","https://ik.imagekit.io/eropa/products/Air_Fryer_YONGMA_YMF101_4_VNV57wW7S.png?updatedAt=1631950453345"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:04 - Row :43 - Product imported successfully.
+04-29-2022 @ 07:18:04 - Row :44 - Parsing item.
+04-29-2022 @ 07:18:05 - Importing as new product ID:588
+04-29-2022 @ 07:18:05 - Row :44 - Processing item.
+04-29-2022 @ 07:18:05 - Found simple product object. ID:588
+04-29-2022 @ 07:18:05 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/GMC888D2_-SUK7EdG_q.png?updatedAt=1632280252042","https://ik.imagekit.io/eropa/products/GMC888D2_3_5mVZzyBUbo6.png?updatedAt=1632280251955","https://ik.imagekit.io/eropa/products/GMC888D2_2_Yk1qowgn3A.png?updatedAt=1632280251962"]
+04-29-2022 @ 07:18:05 - URL:["https://ik.imagekit.io/eropa/products/GMC888D2_-SUK7EdG_q.png?updatedAt=1632280252042","https://ik.imagekit.io/eropa/products/GMC888D2_3_5mVZzyBUbo6.png?updatedAt=1632280251955","https://ik.imagekit.io/eropa/products/GMC888D2_2_Yk1qowgn3A.png?updatedAt=1632280251962"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:05 - Row :44 - Product imported successfully.
+04-29-2022 @ 07:18:05 - Row :45 - Parsing item.
+04-29-2022 @ 07:18:06 - Importing as new product ID:589
+04-29-2022 @ 07:18:06 - Row :45 - Processing item.
+04-29-2022 @ 07:18:06 - Found simple product object. ID:589
+04-29-2022 @ 07:18:06 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO10UBB_8_6yUjTx8-.png?updatedAt=1632282586592","https://ik.imagekit.io/eropa/products/CBOXPRO10UBB_3_O0k0BRc6OG.png?updatedAt=1632281185393","https://ik.imagekit.io/eropa/products/CBOXPRO10UBB_2_x32vcQAj9d.png?updatedAt=1632281184768"]
+04-29-2022 @ 07:18:06 - URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO10UBB_8_6yUjTx8-.png?updatedAt=1632282586592","https://ik.imagekit.io/eropa/products/CBOXPRO10UBB_3_O0k0BRc6OG.png?updatedAt=1632281185393","https://ik.imagekit.io/eropa/products/CBOXPRO10UBB_2_x32vcQAj9d.png?updatedAt=1632281184768"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:06 - Row :45 - Product imported successfully.
+04-29-2022 @ 07:18:06 - Row :46 - Parsing item.
+04-29-2022 @ 07:18:06 - Importing as new product ID:590
+04-29-2022 @ 07:18:06 - Row :46 - Processing item.
+04-29-2022 @ 07:18:06 - Found simple product object. ID:590
+04-29-2022 @ 07:18:06 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_9311_AFayGh5f68Z.png?updatedAt=1632281506445","https://ik.imagekit.io/eropa/products/PMA9311_3_dvUZR6KIxFc.png?updatedAt=1632281899333","https://ik.imagekit.io/eropa/products/PMA9311_2_shcVbbSZ1V.png?updatedAt=1632281898760"]
+04-29-2022 @ 07:18:06 - URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_9311_AFayGh5f68Z.png?updatedAt=1632281506445","https://ik.imagekit.io/eropa/products/PMA9311_3_dvUZR6KIxFc.png?updatedAt=1632281899333","https://ik.imagekit.io/eropa/products/PMA9311_2_shcVbbSZ1V.png?updatedAt=1632281898760"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:07 - Row :46 - Product imported successfully.
+04-29-2022 @ 07:18:07 - Row :47 - Parsing item.
+04-29-2022 @ 07:18:07 - Importing as new product ID:591
+04-29-2022 @ 07:18:07 - Row :47 - Processing item.
+04-29-2022 @ 07:18:07 - Found simple product object. ID:591
+04-29-2022 @ 07:18:07 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO12UBB_bWBYkb9NeO.png?updatedAt=1632282461263","https://ik.imagekit.io/eropa/products/PRO12UBB_3_2DMsaFqdp5.png?updatedAt=1632282462519","https://ik.imagekit.io/eropa/products/PRO12UBB_2_vE6yG_uZyL.png?updatedAt=1632282461949"]
+04-29-2022 @ 07:18:07 - URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO12UBB_bWBYkb9NeO.png?updatedAt=1632282461263","https://ik.imagekit.io/eropa/products/PRO12UBB_3_2DMsaFqdp5.png?updatedAt=1632282462519","https://ik.imagekit.io/eropa/products/PRO12UBB_2_vE6yG_uZyL.png?updatedAt=1632282461949"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:07 - Row :47 - Product imported successfully.
+04-29-2022 @ 07:18:07 - Row :48 - Parsing item.
+04-29-2022 @ 07:18:07 - Importing as new product ID:592
+04-29-2022 @ 07:18:07 - Row :48 - Processing item.
+04-29-2022 @ 07:18:07 - Found simple product object. ID:592
+04-29-2022 @ 07:18:07 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GNB215SQ-MT_7uzaBfvqGB.png?updatedAt=1632283038830","https://ik.imagekit.io/eropa/products/GNB215SQMT_2_JSXx4_iO7w.png?updatedAt=1632283036381","https://ik.imagekit.io/eropa/products/GNB215SQMT_3_H-HRO7rMose.png?updatedAt=1632283036927","https://ik.imagekit.io/eropa/products/GNB215SQMT_4_zkITTTvQH.png?updatedAt=1632283037889"]
+04-29-2022 @ 07:18:07 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GNB215SQ-MT_7uzaBfvqGB.png?updatedAt=1632283038830","https://ik.imagekit.io/eropa/products/GNB215SQMT_2_JSXx4_iO7w.png?updatedAt=1632283036381","https://ik.imagekit.io/eropa/products/GNB215SQMT_3_H-HRO7rMose.png?updatedAt=1632283036927","https://ik.imagekit.io/eropa/products/GNB215SQMT_4_zkITTTvQH.png?updatedAt=1632283037889"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:07 - Row :48 - Product imported successfully.
+04-29-2022 @ 07:18:07 - Row :49 - Parsing item.
+04-29-2022 @ 07:18:08 - Importing as new product ID:593
+04-29-2022 @ 07:18:08 - Row :49 - Processing item.
+04-29-2022 @ 07:18:08 - Found simple product object. ID:593
+04-29-2022 @ 07:18:08 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/COSMOS_CM1279_2JBabnSyMX.png?updatedAt=1632283467461","https://ik.imagekit.io/eropa/products/CM1279_3_PTj8detnG.png?updatedAt=1632283468844","https://ik.imagekit.io/eropa/products/CM1279_2_A1xFO5aovfd.png?updatedAt=1632283467669"]
+04-29-2022 @ 07:18:08 - URL:["https://ik.imagekit.io/eropa/products/COSMOS_CM1279_2JBabnSyMX.png?updatedAt=1632283467461","https://ik.imagekit.io/eropa/products/CM1279_3_PTj8detnG.png?updatedAt=1632283468844","https://ik.imagekit.io/eropa/products/CM1279_2_A1xFO5aovfd.png?updatedAt=1632283467669"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:08 - Row :49 - Product imported successfully.
+04-29-2022 @ 07:18:08 - Row :50 - Parsing item.
+04-29-2022 @ 07:18:08 - Importing as new product ID:594
+04-29-2022 @ 07:18:08 - Row :50 - Processing item.
+04-29-2022 @ 07:18:08 - Found simple product object. ID:594
+04-29-2022 @ 07:18:08 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/MASPION_MT1150_Gkehg7TY7W.png?updatedAt=1632290961379","https://ik.imagekit.io/eropa/products/MT1150_5_qwaYlx-RO.png?updatedAt=1632290960431","https://ik.imagekit.io/eropa/products/MT1150_4_3bqyUbLxFrt.png?updatedAt=1632290959664","https://ik.imagekit.io/eropa/products/MT1150_4_3bqyUbLxFrt.png?updatedAt=1632290959664"]
+04-29-2022 @ 07:18:08 - URL:["https://ik.imagekit.io/eropa/products/MASPION_MT1150_Gkehg7TY7W.png?updatedAt=1632290961379","https://ik.imagekit.io/eropa/products/MT1150_5_qwaYlx-RO.png?updatedAt=1632290960431","https://ik.imagekit.io/eropa/products/MT1150_4_3bqyUbLxFrt.png?updatedAt=1632290959664","https://ik.imagekit.io/eropa/products/MT1150_4_3bqyUbLxFrt.png?updatedAt=1632290959664"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:08 - Row :50 - Product imported successfully.
+04-29-2022 @ 07:18:10 - Preparing for import.
+04-29-2022 @ 07:18:10 - Row :51 - Parsing item.
+04-29-2022 @ 07:18:10 - Importing as new product ID:595
+04-29-2022 @ 07:18:10 - Row :51 - Processing item.
+04-29-2022 @ 07:18:10 - Found simple product object. ID:595
+04-29-2022 @ 07:18:11 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb180_g5IjT6Qy7A.png?updatedAt=1632298623451","https://ik.imagekit.io/eropa/products/CB180F_3_jQglaKixD.png?updatedAt=1632298623016","https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb180_5_v3wxuTIho6g.png?updatedAt=1632298622170","https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb180_4_9nagQqfH1l.png?updatedAt=1632298622442"]
+04-29-2022 @ 07:18:11 - URL:["https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb180_g5IjT6Qy7A.png?updatedAt=1632298623451","https://ik.imagekit.io/eropa/products/CB180F_3_jQglaKixD.png?updatedAt=1632298623016","https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb180_5_v3wxuTIho6g.png?updatedAt=1632298622170","https://ik.imagekit.io/eropa/products/Blender_Cosmos_Cb180_4_9nagQqfH1l.png?updatedAt=1632298622442"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:11 - Row :51 - Product imported successfully.
+04-29-2022 @ 07:18:11 - Row :52 - Parsing item.
+04-29-2022 @ 07:18:11 - Importing as new product ID:596
+04-29-2022 @ 07:18:11 - Row :52 - Processing item.
+04-29-2022 @ 07:18:11 - Found simple product object. ID:596
+04-29-2022 @ 07:18:11 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/MIYAKO_HM620_04HnD29IUA.png?updatedAt=1632299200514","https://ik.imagekit.io/eropa/products/HM620_3_sbqAtqRRi.png?updatedAt=1632299200345","https://ik.imagekit.io/eropa/products/HM620_2__EwKNX5DW6.png?updatedAt=1632299200329","https://ik.imagekit.io/eropa/products/HM620_4_CIgHesptz4m.png?updatedAt=1632299200308"]
+04-29-2022 @ 07:18:11 - URL:["https://ik.imagekit.io/eropa/products/MIYAKO_HM620_04HnD29IUA.png?updatedAt=1632299200514","https://ik.imagekit.io/eropa/products/HM620_3_sbqAtqRRi.png?updatedAt=1632299200345","https://ik.imagekit.io/eropa/products/HM620_2__EwKNX5DW6.png?updatedAt=1632299200329","https://ik.imagekit.io/eropa/products/HM620_4_CIgHesptz4m.png?updatedAt=1632299200308"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:12 - Row :52 - Product imported successfully.
+04-29-2022 @ 07:18:12 - Row :53 - Parsing item.
+04-29-2022 @ 07:18:12 - Importing as new product ID:597
+04-29-2022 @ 07:18:12 - Row :53 - Processing item.
+04-29-2022 @ 07:18:12 - Found simple product object. ID:597
+04-29-2022 @ 07:18:12 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Presto_MAXIM_4LT__4LT__NessLUSUf.png?updatedAt=1634114406606","https://ik.imagekit.io/eropa/products/Presto_Maxim_4_ltr_3_dExvZFyLg.png?updatedAt=1634114407223"]
+04-29-2022 @ 07:18:12 - URL:["https://ik.imagekit.io/eropa/products/Presto_MAXIM_4LT__4LT__NessLUSUf.png?updatedAt=1634114406606","https://ik.imagekit.io/eropa/products/Presto_Maxim_4_ltr_3_dExvZFyLg.png?updatedAt=1634114407223"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:12 - Row :53 - Product imported successfully.
+04-29-2022 @ 07:18:12 - Row :54 - Parsing item.
+04-29-2022 @ 07:18:12 - Importing as new product ID:598
+04-29-2022 @ 07:18:12 - Row :54 - Processing item.
+04-29-2022 @ 07:18:12 - Found simple product object. ID:598
+04-29-2022 @ 07:18:12 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Presto_VICENZA_V328R12LTR__V328R12LTR__4id8V_C_X1.png?updatedAt=1632299686598","https://ik.imagekit.io/eropa/products/Presto_VICENZA_12LT_V328_4_GyysmRW6V.png?updatedAt=1632299687168","https://ik.imagekit.io/eropa/products/Presto_VICENZA_12LT_V328_3_hThAv2hELy.png?updatedAt=1632299688030"]
+04-29-2022 @ 07:18:12 - URL:["https://ik.imagekit.io/eropa/products/Presto_VICENZA_V328R12LTR__V328R12LTR__4id8V_C_X1.png?updatedAt=1632299686598","https://ik.imagekit.io/eropa/products/Presto_VICENZA_12LT_V328_4_GyysmRW6V.png?updatedAt=1632299687168","https://ik.imagekit.io/eropa/products/Presto_VICENZA_12LT_V328_3_hThAv2hELy.png?updatedAt=1632299688030"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:12 - Row :54 - Product imported successfully.
+04-29-2022 @ 07:18:13 - Row :55 - Parsing item.
+04-29-2022 @ 07:18:13 - Importing as new product ID:599
+04-29-2022 @ 07:18:13 - Row :55 - Processing item.
+04-29-2022 @ 07:18:13 - Found simple product object. ID:599
+04-29-2022 @ 07:18:13 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Presto_VICENZA_8LT_V324__8LT_V324__IbXT6Ugua.png?updatedAt=1632300022870","https://ik.imagekit.io/eropa/products/Presto_VICENZA_8LT_V324_5_9q8cYD4Qi8.png?updatedAt=1632300023444","https://ik.imagekit.io/eropa/products/vicenza_8_liter_p4r1aho20a.png?updatedAt=1632300024510"]
+04-29-2022 @ 07:18:13 - URL:["https://ik.imagekit.io/eropa/products/Presto_VICENZA_8LT_V324__8LT_V324__IbXT6Ugua.png?updatedAt=1632300022870","https://ik.imagekit.io/eropa/products/Presto_VICENZA_8LT_V324_5_9q8cYD4Qi8.png?updatedAt=1632300023444","https://ik.imagekit.io/eropa/products/vicenza_8_liter_p4r1aho20a.png?updatedAt=1632300024510"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:13 - Row :55 - Product imported successfully.
+04-29-2022 @ 07:18:13 - Row :56 - Parsing item.
+04-29-2022 @ 07:18:13 - Importing as new product ID:600
+04-29-2022 @ 07:18:13 - Row :56 - Processing item.
+04-29-2022 @ 07:18:13 - Found simple product object. ID:600
+04-29-2022 @ 07:18:13 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/oven_SHARP_EO28LP_28LT_wGs0NqW_V.png?updatedAt=1632300446367","https://ik.imagekit.io/eropa/products/EO28LP_alp9u3Vde9.png?updatedAt=1632300447065"]
+04-29-2022 @ 07:18:13 - URL:["https://ik.imagekit.io/eropa/products/oven_SHARP_EO28LP_28LT_wGs0NqW_V.png?updatedAt=1632300446367","https://ik.imagekit.io/eropa/products/EO28LP_alp9u3Vde9.png?updatedAt=1632300447065"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:13 - Row :56 - Product imported successfully.
+04-29-2022 @ 07:18:13 - Row :57 - Parsing item.
+04-29-2022 @ 07:18:13 - Importing as new product ID:601
+04-29-2022 @ 07:18:13 - Row :57 - Processing item.
+04-29-2022 @ 07:18:13 - Found simple product object. ID:601
+04-29-2022 @ 07:18:13 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AC_SHARP_AHA9UCYN_m_B1Wp8VAd_.png?updatedAt=1632301040779","https://ik.imagekit.io/eropa/products/AHA9UCY_2_ivliqBkaTcJ.png?updatedAt=1632301038551","https://ik.imagekit.io/eropa/products/AHA9UCY_4_DVTXSCLidh.png?updatedAt=1632301039765","https://ik.imagekit.io/eropa/products/AHA9UCY_3_cZnoK2jPb.png?updatedAt=1632301038974"]
+04-29-2022 @ 07:18:13 - URL:["https://ik.imagekit.io/eropa/products/AC_SHARP_AHA9UCYN_m_B1Wp8VAd_.png?updatedAt=1632301040779","https://ik.imagekit.io/eropa/products/AHA9UCY_2_ivliqBkaTcJ.png?updatedAt=1632301038551","https://ik.imagekit.io/eropa/products/AHA9UCY_4_DVTXSCLidh.png?updatedAt=1632301039765","https://ik.imagekit.io/eropa/products/AHA9UCY_3_cZnoK2jPb.png?updatedAt=1632301038974"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:14 - Row :57 - Product imported successfully.
+04-29-2022 @ 07:18:14 - Row :58 - Parsing item.
+04-29-2022 @ 07:18:14 - Importing as new product ID:602
+04-29-2022 @ 07:18:14 - Row :58 - Processing item.
+04-29-2022 @ 07:18:14 - Found simple product object. ID:602
+04-29-2022 @ 07:18:14 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AC_POLYTRON_PAC9VH_vjC3i9XFnV.png?updatedAt=1632301519778"]
+04-29-2022 @ 07:18:14 - URL:["https://ik.imagekit.io/eropa/products/AC_POLYTRON_PAC9VH_vjC3i9XFnV.png?updatedAt=1632301519778"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:14 - Row :58 - Product imported successfully.
+04-29-2022 @ 07:18:14 - Row :59 - Parsing item.
+04-29-2022 @ 07:18:14 - Importing as new product ID:603
+04-29-2022 @ 07:18:14 - Row :59 - Processing item.
+04-29-2022 @ 07:18:14 - Found simple product object. ID:603
+04-29-2022 @ 07:18:14 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mitochiba_CH_100_S8SEKeujhO.png?updatedAt=1632302102052","https://ik.imagekit.io/eropa/products/CH100_3_1wypfAKbN.png?updatedAt=1632301912242","https://ik.imagekit.io/eropa/products/CH100_2_C-x5TONC9aD.png?updatedAt=1632301911838"]
+04-29-2022 @ 07:18:14 - URL:["https://ik.imagekit.io/eropa/products/Mitochiba_CH_100_S8SEKeujhO.png?updatedAt=1632302102052","https://ik.imagekit.io/eropa/products/CH100_3_1wypfAKbN.png?updatedAt=1632301912242","https://ik.imagekit.io/eropa/products/CH100_2_C-x5TONC9aD.png?updatedAt=1632301911838"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:14 - Row :59 - Product imported successfully.
+04-29-2022 @ 07:18:14 - Row :60 - Parsing item.
+04-29-2022 @ 07:18:14 - Importing as new product ID:604
+04-29-2022 @ 07:18:14 - Row :60 - Processing item.
+04-29-2022 @ 07:18:14 - Found simple product object. ID:604
+04-29-2022 @ 07:18:14 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AC_LG_T10EV4_5rwER5a4r5.png?updatedAt=1632302822168","https://ik.imagekit.io/eropa/products/T10EV4_4_GZJ503S1_1.png?updatedAt=1632302821187","https://ik.imagekit.io/eropa/products/T10EV4_3_qzohxveF5.png?updatedAt=1632302820301","https://ik.imagekit.io/eropa/products/T10EV4_2_EQ_7uMJpjUS.png?updatedAt=1632302819661"]
+04-29-2022 @ 07:18:14 - URL:["https://ik.imagekit.io/eropa/products/AC_LG_T10EV4_5rwER5a4r5.png?updatedAt=1632302822168","https://ik.imagekit.io/eropa/products/T10EV4_4_GZJ503S1_1.png?updatedAt=1632302821187","https://ik.imagekit.io/eropa/products/T10EV4_3_qzohxveF5.png?updatedAt=1632302820301","https://ik.imagekit.io/eropa/products/T10EV4_2_EQ_7uMJpjUS.png?updatedAt=1632302819661"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:15 - Row :60 - Product imported successfully.
+04-29-2022 @ 07:18:16 - Preparing for import.
+04-29-2022 @ 07:18:16 - Row :61 - Parsing item.
+04-29-2022 @ 07:18:16 - Importing as new product ID:605
+04-29-2022 @ 07:18:16 - Row :61 - Processing item.
+04-29-2022 @ 07:18:16 - Found simple product object. ID:605
+04-29-2022 @ 07:18:16 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Rinnai_Kompor_Gas_2_Tungku_Teflon_RI-302S_48Y86fbkdg.png?updatedAt=1632365808485","https://ik.imagekit.io/eropa/products/RI-302S_3_MgHv7_uobG.png?updatedAt=1632365752709","https://ik.imagekit.io/eropa/products/RI-302S_2_aFF6Je9UCy.png?updatedAt=1632365752995"]
+04-29-2022 @ 07:18:16 - URL:["https://ik.imagekit.io/eropa/products/Rinnai_Kompor_Gas_2_Tungku_Teflon_RI-302S_48Y86fbkdg.png?updatedAt=1632365808485","https://ik.imagekit.io/eropa/products/RI-302S_3_MgHv7_uobG.png?updatedAt=1632365752709","https://ik.imagekit.io/eropa/products/RI-302S_2_aFF6Je9UCy.png?updatedAt=1632365752995"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:17 - Row :61 - Product imported successfully.
+04-29-2022 @ 07:18:17 - Row :62 - Parsing item.
+04-29-2022 @ 07:18:17 - Importing as new product ID:606
+04-29-2022 @ 07:18:17 - Row :62 - Processing item.
+04-29-2022 @ 07:18:17 - Found simple product object. ID:606
+04-29-2022 @ 07:18:17 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/COSMOS_stand_fan_16_SDB__kipas_angin_berdiri_16_inch_E124PaxsKo.png?updatedAt=1632366153410"]
+04-29-2022 @ 07:18:17 - URL:["https://ik.imagekit.io/eropa/products/COSMOS_stand_fan_16_SDB__kipas_angin_berdiri_16_inch_E124PaxsKo.png?updatedAt=1632366153410"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:17 - Row :62 - Product imported successfully.
+04-29-2022 @ 07:18:17 - Row :63 - Parsing item.
+04-29-2022 @ 07:18:17 - Importing as new product ID:607
+04-29-2022 @ 07:18:17 - Row :63 - Processing item.
+04-29-2022 @ 07:18:17 - Found simple product object. ID:607
+04-29-2022 @ 07:18:17 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Stand_Fan_COSMOS_16XDC_9fpJzeA8tv.png?updatedAt=1632366581839"]
+04-29-2022 @ 07:18:17 - URL:["https://ik.imagekit.io/eropa/products/Stand_Fan_COSMOS_16XDC_9fpJzeA8tv.png?updatedAt=1632366581839"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:18 - Row :63 - Product imported successfully.
+04-29-2022 @ 07:18:18 - Row :64 - Parsing item.
+04-29-2022 @ 07:18:18 - Importing as new product ID:608
+04-29-2022 @ 07:18:18 - Row :64 - Processing item.
+04-29-2022 @ 07:18:18 - Found simple product object. ID:608
+04-29-2022 @ 07:18:18 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJN162D-AB_Nwc975nY8q.png?updatedAt=1632367887598"]
+04-29-2022 @ 07:18:18 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJN162D-AB_Nwc975nY8q.png?updatedAt=1632367887598"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:18 - Row :64 - Product imported successfully.
+04-29-2022 @ 07:18:18 - Row :65 - Parsing item.
+04-29-2022 @ 07:18:18 - Importing as new product ID:609
+04-29-2022 @ 07:18:18 - Row :65 - Processing item.
+04-29-2022 @ 07:18:18 - Found simple product object. ID:609
+04-29-2022 @ 07:18:18 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Freezer_AQUA_AQFS6__bk60spPZH.png?updatedAt=1632381424481"]
+04-29-2022 @ 07:18:18 - URL:["https://ik.imagekit.io/eropa/products/Freezer_AQUA_AQFS6__bk60spPZH.png?updatedAt=1632381424481"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:19 - Row :65 - Product imported successfully.
+04-29-2022 @ 07:18:19 - Row :66 - Parsing item.
+04-29-2022 @ 07:18:19 - Importing as new product ID:610
+04-29-2022 @ 07:18:19 - Row :66 - Processing item.
+04-29-2022 @ 07:18:19 - Found simple product object. ID:610
+04-29-2022 @ 07:18:19 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_ESH858T_67jiusOaz6.png?updatedAt=1632369194593","https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_ESH858T_1__wweXgrRHVv.png?updatedAt=1632369195429"]
+04-29-2022 @ 07:18:19 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_ESH858T_67jiusOaz6.png?updatedAt=1632369194593","https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_ESH858T_1__wweXgrRHVv.png?updatedAt=1632369195429"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:19 - Row :66 - Product imported successfully.
+04-29-2022 @ 07:18:19 - Row :67 - Parsing item.
+04-29-2022 @ 07:18:19 - Importing as new product ID:611
+04-29-2022 @ 07:18:19 - Row :67 - Processing item.
+04-29-2022 @ 07:18:19 - Found simple product object. ID:611
+04-29-2022 @ 07:18:19 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AC_AQUA_KCRV9WGW_U7nwRMl2o0w.png?updatedAt=1632370184257"]
+04-29-2022 @ 07:18:19 - URL:["https://ik.imagekit.io/eropa/products/AC_AQUA_KCRV9WGW_U7nwRMl2o0w.png?updatedAt=1632370184257"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:20 - Row :67 - Product imported successfully.
+04-29-2022 @ 07:18:20 - Row :68 - Parsing item.
+04-29-2022 @ 07:18:20 - Importing as new product ID:612
+04-29-2022 @ 07:18:20 - Row :68 - Processing item.
+04-29-2022 @ 07:18:20 - Found simple product object. ID:612
+04-29-2022 @ 07:18:20 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AC_POLYTRON_09VX_BfsjnzTUDO.png?updatedAt=1632371851917","https://ik.imagekit.io/eropa/products/AC_POLYTRON_09VX_2_iz5tZwyLxZ.png?updatedAt=1632371853199","https://ik.imagekit.io/eropa/products/AC_POLYTRON_09VX_3_eX_qEV6_9JL.png?updatedAt=1632371852416"]
+04-29-2022 @ 07:18:20 - URL:["https://ik.imagekit.io/eropa/products/AC_POLYTRON_09VX_BfsjnzTUDO.png?updatedAt=1632371851917","https://ik.imagekit.io/eropa/products/AC_POLYTRON_09VX_2_iz5tZwyLxZ.png?updatedAt=1632371853199","https://ik.imagekit.io/eropa/products/AC_POLYTRON_09VX_3_eX_qEV6_9JL.png?updatedAt=1632371852416"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:20 - Row :68 - Product imported successfully.
+04-29-2022 @ 07:18:20 - Row :69 - Parsing item.
+04-29-2022 @ 07:18:20 - Importing as new product ID:613
+04-29-2022 @ 07:18:20 - Row :69 - Processing item.
+04-29-2022 @ 07:18:20 - Found simple product object. ID:613
+04-29-2022 @ 07:18:20 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GN201CK_SnG5X8AxjOq.png?updatedAt=1632373657801","https://ik.imagekit.io/eropa/products/GN-201CK_OQ2BszZ6A2d.png?updatedAt=1632378395280"]
+04-29-2022 @ 07:18:20 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GN201CK_SnG5X8AxjOq.png?updatedAt=1632373657801","https://ik.imagekit.io/eropa/products/GN-201CK_OQ2BszZ6A2d.png?updatedAt=1632378395280"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:20 - Row :69 - Product imported successfully.
+04-29-2022 @ 07:18:21 - Row :70 - Parsing item.
+04-29-2022 @ 07:18:21 - Importing as new product ID:614
+04-29-2022 @ 07:18:21 - Row :70 - Processing item.
+04-29-2022 @ 07:18:21 - Found simple product object. ID:614
+04-29-2022 @ 07:18:21 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Freezer_AQUA_AQFS4_cswWmkAJBk.png?updatedAt=1632381385610"]
+04-29-2022 @ 07:18:21 - URL:["https://ik.imagekit.io/eropa/products/Freezer_AQUA_AQFS4_cswWmkAJBk.png?updatedAt=1632381385610"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:21 - Row :70 - Product imported successfully.
+04-29-2022 @ 07:18:22 - Preparing for import.
+04-29-2022 @ 07:18:22 - Row :71 - Parsing item.
+04-29-2022 @ 07:18:22 - Importing as new product ID:615
+04-29-2022 @ 07:18:22 - Row :71 - Processing item.
+04-29-2022 @ 07:18:22 - Found simple product object. ID:615
+04-29-2022 @ 07:18:22 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GNINV201SL_pKJuJ7hIVqi.png?updatedAt=1632379026026","https://ik.imagekit.io/eropa/products/GN-INV201SL_cmA8zDRSLM.png?updatedAt=1632379250709"]
+04-29-2022 @ 07:18:22 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GNINV201SL_pKJuJ7hIVqi.png?updatedAt=1632379026026","https://ik.imagekit.io/eropa/products/GN-INV201SL_cmA8zDRSLM.png?updatedAt=1632379250709"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:22 - Row :71 - Product imported successfully.
+04-29-2022 @ 07:18:22 - Row :72 - Parsing item.
+04-29-2022 @ 07:18:23 - Importing as new product ID:616
+04-29-2022 @ 07:18:23 - Row :72 - Processing item.
+04-29-2022 @ 07:18:23 - Found simple product object. ID:616
+04-29-2022 @ 07:18:23 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Chest_Freezer_SHARP_FRW210_5A6xJB0Fqb.png?updatedAt=1632381346771"]
+04-29-2022 @ 07:18:23 - URL:["https://ik.imagekit.io/eropa/products/Chest_Freezer_SHARP_FRW210_5A6xJB0Fqb.png?updatedAt=1632381346771"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:23 - Row :72 - Product imported successfully.
+04-29-2022 @ 07:18:23 - Row :73 - Parsing item.
+04-29-2022 @ 07:18:23 - Importing as new product ID:617
+04-29-2022 @ 07:18:23 - Row :73 - Processing item.
+04-29-2022 @ 07:18:23 - Found simple product object. ID:617
+04-29-2022 @ 07:18:23 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRX212N_zs48ChEPKJ.png?updatedAt=1632381295309"]
+04-29-2022 @ 07:18:23 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRX212N_zs48ChEPKJ.png?updatedAt=1632381295309"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:24 - Row :73 - Product imported successfully.
+04-29-2022 @ 07:18:24 - Row :74 - Parsing item.
+04-29-2022 @ 07:18:24 - Importing as new product ID:618
+04-29-2022 @ 07:18:24 - Row :74 - Processing item.
+04-29-2022 @ 07:18:24 - Found simple product object. ID:618
+04-29-2022 @ 07:18:24 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Magic_com_YONGMA_SMC5049_5_4LT__GgCQBm5otZ.png?updatedAt=1632447505876"]
+04-29-2022 @ 07:18:24 - URL:["https://ik.imagekit.io/eropa/products/Magic_com_YONGMA_SMC5049_5_4LT__GgCQBm5otZ.png?updatedAt=1632447505876"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:24 - Row :74 - Product imported successfully.
+04-29-2022 @ 07:18:24 - Row :75 - Parsing item.
+04-29-2022 @ 07:18:24 - Importing as new product ID:619
+04-29-2022 @ 07:18:24 - Row :75 - Processing item.
+04-29-2022 @ 07:18:24 - Found simple product object. ID:619
+04-29-2022 @ 07:18:24 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SAMSUNG_WT85H3210MB_4V8kFebKp.png?updatedAt=1632382652382"]
+04-29-2022 @ 07:18:24 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SAMSUNG_WT85H3210MB_4V8kFebKp.png?updatedAt=1632382652382"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:24 - Row :75 - Product imported successfully.
+04-29-2022 @ 07:18:25 - Row :76 - Parsing item.
+04-29-2022 @ 07:18:25 - Importing as new product ID:620
+04-29-2022 @ 07:18:25 - Row :76 - Processing item.
+04-29-2022 @ 07:18:25 - Found simple product object. ID:620
+04-29-2022 @ 07:18:25 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Chest_Freezer_POLYTRON_PCF217_so3NqD88TO.png?updatedAt=1632447563910"]
+04-29-2022 @ 07:18:25 - URL:["https://ik.imagekit.io/eropa/products/Chest_Freezer_POLYTRON_PCF217_so3NqD88TO.png?updatedAt=1632447563910"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:25 - Row :76 - Product imported successfully.
+04-29-2022 @ 07:18:25 - Row :77 - Parsing item.
+04-29-2022 @ 07:18:25 - Importing as new product ID:621
+04-29-2022 @ 07:18:25 - Row :77 - Processing item.
+04-29-2022 @ 07:18:25 - Found simple product object. ID:621
+04-29-2022 @ 07:18:25 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Magic_com_YONGMA_SMC4023_rHyjAQy3l7.png?updatedAt=1632447748137"]
+04-29-2022 @ 07:18:25 - URL:["https://ik.imagekit.io/eropa/products/Magic_com_YONGMA_SMC4023_rHyjAQy3l7.png?updatedAt=1632447748137"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:26 - Row :77 - Product imported successfully.
+04-29-2022 @ 07:18:26 - Row :78 - Parsing item.
+04-29-2022 @ 07:18:26 - Importing as new product ID:622
+04-29-2022 @ 07:18:26 - Row :78 - Processing item.
+04-29-2022 @ 07:18:26 - Found simple product object. ID:622
+04-29-2022 @ 07:18:26 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/POLYTRON_PCF117_E61CpUsNhL.png?updatedAt=1632447797892"]
+04-29-2022 @ 07:18:26 - URL:["https://ik.imagekit.io/eropa/products/POLYTRON_PCF117_E61CpUsNhL.png?updatedAt=1632447797892"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:26 - Row :78 - Product imported successfully.
+04-29-2022 @ 07:18:26 - Row :79 - Parsing item.
+04-29-2022 @ 07:18:26 - Importing as new product ID:623
+04-29-2022 @ 07:18:26 - Row :79 - Processing item.
+04-29-2022 @ 07:18:26 - Found simple product object. ID:623
+04-29-2022 @ 07:18:26 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC6013_gG9TAFxgtF2.png?updatedAt=1632448261760","https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC6013_6_Nkt0TkzGR5.png?updatedAt=1632448261845","https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC6013_5_CqQMRzkZQM.png?updatedAt=1632448262684"]
+04-29-2022 @ 07:18:26 - URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC6013_gG9TAFxgtF2.png?updatedAt=1632448261760","https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC6013_6_Nkt0TkzGR5.png?updatedAt=1632448261845","https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC6013_5_CqQMRzkZQM.png?updatedAt=1632448262684"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:26 - Row :79 - Product imported successfully.
+04-29-2022 @ 07:18:26 - Row :80 - Parsing item.
+04-29-2022 @ 07:18:26 - Importing as new product ID:624
+04-29-2022 @ 07:18:26 - Row :80 - Processing item.
+04-29-2022 @ 07:18:26 - Found simple product object. ID:624
+04-29-2022 @ 07:18:26 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC4033_2.5L__Zc9lcabIZ5F.png?updatedAt=1632448383354","https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC4033_2.5L__3_iNxqnX4rk1.png?updatedAt=1632448383729"]
+04-29-2022 @ 07:18:26 - URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC4033_2.5L__Zc9lcabIZ5F.png?updatedAt=1632448383354","https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC4033_2.5L__3_iNxqnX4rk1.png?updatedAt=1632448383729"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:27 - Row :80 - Product imported successfully.
+04-29-2022 @ 07:18:27 - Preparing for import.
+04-29-2022 @ 07:18:27 - Row :81 - Parsing item.
+04-29-2022 @ 07:18:28 - Importing as new product ID:625
+04-29-2022 @ 07:18:28 - Row :81 - Processing item.
+04-29-2022 @ 07:18:28 - Found simple product object. ID:625
+04-29-2022 @ 07:18:28 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB159B_sl8quWubM.png?updatedAt=1634699837514"]
+04-29-2022 @ 07:18:28 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB159B_sl8quWubM.png?updatedAt=1634699837514"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:28 - Row :81 - Product imported successfully.
+04-29-2022 @ 07:18:28 - Row :82 - Parsing item.
+04-29-2022 @ 07:18:28 - Importing as new product ID:626
+04-29-2022 @ 07:18:28 - Row :82 - Processing item.
+04-29-2022 @ 07:18:28 - Found simple product object. ID:626
+04-29-2022 @ 07:18:28 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB159R_GCkJkDnk5.png?updatedAt=1634699838505"]
+04-29-2022 @ 07:18:28 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB159R_GCkJkDnk5.png?updatedAt=1634699838505"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:28 - Row :82 - Product imported successfully.
+04-29-2022 @ 07:18:28 - Row :83 - Parsing item.
+04-29-2022 @ 07:18:28 - Importing as new product ID:627
+04-29-2022 @ 07:18:28 - Row :83 - Processing item.
+04-29-2022 @ 07:18:28 - Found simple product object. ID:627
+04-29-2022 @ 07:18:28 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW96BBZ2_1CJy0iZzQz.png?updatedAt=1632453591237"]
+04-29-2022 @ 07:18:28 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW96BBZ2_1CJy0iZzQz.png?updatedAt=1632453591237"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:29 - Row :83 - Product imported successfully.
+04-29-2022 @ 07:18:29 - Row :84 - Parsing item.
+04-29-2022 @ 07:18:29 - Importing as new product ID:628
+04-29-2022 @ 07:18:29 - Row :84 - Processing item.
+04-29-2022 @ 07:18:29 - Found simple product object. ID:628
+04-29-2022 @ 07:18:29 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/mesin_cuci_POLYTRON_PWM852G_3tyi09kCUV.png?updatedAt=1632456300447"]
+04-29-2022 @ 07:18:29 - URL:["https://ik.imagekit.io/eropa/products/mesin_cuci_POLYTRON_PWM852G_3tyi09kCUV.png?updatedAt=1632456300447"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:29 - Row :84 - Product imported successfully.
+04-29-2022 @ 07:18:29 - Row :85 - Parsing item.
+04-29-2022 @ 07:18:29 - Importing as new product ID:629
+04-29-2022 @ 07:18:29 - Row :85 - Processing item.
+04-29-2022 @ 07:18:29 - Found simple product object. ID:629
+04-29-2022 @ 07:18:29 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_LG_P7500N_HAZaC2HySl.png?updatedAt=1632456797443","https://ik.imagekit.io/eropa/products/mesin_cuci_LG_P7500_2_V-JFImmPaIM.png?updatedAt=1632456797807"]
+04-29-2022 @ 07:18:29 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_LG_P7500N_HAZaC2HySl.png?updatedAt=1632456797443","https://ik.imagekit.io/eropa/products/mesin_cuci_LG_P7500_2_V-JFImmPaIM.png?updatedAt=1632456797807"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:29 - Row :85 - Product imported successfully.
+04-29-2022 @ 07:18:29 - Row :86 - Parsing item.
+04-29-2022 @ 07:18:29 - Importing as new product ID:630
+04-29-2022 @ 07:18:29 - Row :86 - Processing item.
+04-29-2022 @ 07:18:29 - Found simple product object. ID:630
+04-29-2022 @ 07:18:29 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AC_SHARP_AP5UHL_erL859dyo.png?updatedAt=1632457330373"]
+04-29-2022 @ 07:18:29 - URL:["https://ik.imagekit.io/eropa/products/AC_SHARP_AP5UHL_erL859dyo.png?updatedAt=1632457330373"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:30 - Row :86 - Product imported successfully.
+04-29-2022 @ 07:18:30 - Row :87 - Parsing item.
+04-29-2022 @ 07:18:30 - Importing as new product ID:631
+04-29-2022 @ 07:18:30 - Row :87 - Processing item.
+04-29-2022 @ 07:18:30 - Found simple product object. ID:631
+04-29-2022 @ 07:18:30 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/AQUA_AQF550R_2xsvSA22Q.png?updatedAt=1632474514962"]
+04-29-2022 @ 07:18:30 - URL:["https://ik.imagekit.io/eropa/products/AQUA_AQF550R_2xsvSA22Q.png?updatedAt=1632474514962"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:30 - Row :87 - Product imported successfully.
+04-29-2022 @ 07:18:30 - Row :88 - Parsing item.
+04-29-2022 @ 07:18:30 - Importing as new product ID:632
+04-29-2022 @ 07:18:30 - Row :88 - Processing item.
+04-29-2022 @ 07:18:30 - Found simple product object. ID:632
+04-29-2022 @ 07:18:30 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/RSA_XS320_Zpq8qvdK7tC.png?updatedAt=1632474853505"]
+04-29-2022 @ 07:18:30 - URL:["https://ik.imagekit.io/eropa/products/RSA_XS320_Zpq8qvdK7tC.png?updatedAt=1632474853505"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:31 - Row :88 - Product imported successfully.
+04-29-2022 @ 07:18:31 - Row :89 - Parsing item.
+04-29-2022 @ 07:18:31 - Importing as new product ID:633
+04-29-2022 @ 07:18:31 - Row :89 - Processing item.
+04-29-2022 @ 07:18:31 - Found simple product object. ID:633
+04-29-2022 @ 07:18:31 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/MODENA_MD0200W_cuHirq2SDs1.png?updatedAt=1632474951554"]
+04-29-2022 @ 07:18:31 - URL:["https://ik.imagekit.io/eropa/products/MODENA_MD0200W_cuHirq2SDs1.png?updatedAt=1632474951554"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:31 - Row :89 - Product imported successfully.
+04-29-2022 @ 07:18:31 - Row :90 - Parsing item.
+04-29-2022 @ 07:18:31 - Importing as new product ID:634
+04-29-2022 @ 07:18:31 - Row :90 - Processing item.
+04-29-2022 @ 07:18:31 - Found simple product object. ID:634
+04-29-2022 @ 07:18:31 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/GEA_AB106R_wX8NUZ9mYw.png?updatedAt=1632474986753"]
+04-29-2022 @ 07:18:31 - URL:["https://ik.imagekit.io/eropa/products/GEA_AB106R_wX8NUZ9mYw.png?updatedAt=1632474986753"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:32 - Row :90 - Product imported successfully.
+04-29-2022 @ 07:18:33 - Preparing for import.
+04-29-2022 @ 07:18:33 - Row :91 - Parsing item.
+04-29-2022 @ 07:18:33 - Importing as new product ID:635
+04-29-2022 @ 07:18:33 - Row :91 - Processing item.
+04-29-2022 @ 07:18:33 - Found simple product object. ID:635
+04-29-2022 @ 07:18:33 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC8305B_V0Es32SY_Gg.png?updatedAt=1632475501660","https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC8305B_3_XDJoCwpt1G.png?updatedAt=1632475501643"]
+04-29-2022 @ 07:18:33 - URL:["https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC8305B_V0Es32SY_Gg.png?updatedAt=1632475501660","https://ik.imagekit.io/eropa/products/Vacuum_SHARP_EC8305B_3_XDJoCwpt1G.png?updatedAt=1632475501643"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:33 - Row :91 - Product imported successfully.
+04-29-2022 @ 07:18:33 - Row :92 - Parsing item.
+04-29-2022 @ 07:18:33 - Importing as new product ID:636
+04-29-2022 @ 07:18:33 - Row :92 - Processing item.
+04-29-2022 @ 07:18:33 - Found simple product object. ID:636
+04-29-2022 @ 07:18:33 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/_Mesin_Cuci_SHARP_EST85CR-BK_azMBSLJkzF.png?updatedAt=1632528815905"]
+04-29-2022 @ 07:18:33 - URL:["https://ik.imagekit.io/eropa/products/_Mesin_Cuci_SHARP_EST85CR-BK_azMBSLJkzF.png?updatedAt=1632528815905"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:33 - Row :92 - Product imported successfully.
+04-29-2022 @ 07:18:33 - Row :93 - Parsing item.
+04-29-2022 @ 07:18:33 - Importing as new product ID:637
+04-29-2022 @ 07:18:33 - Row :93 - Processing item.
+04-29-2022 @ 07:18:33 - Found simple product object. ID:637
+04-29-2022 @ 07:18:33 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST85CR-PK__2__QIREeIOcoD0.png?updatedAt=1632528816388"]
+04-29-2022 @ 07:18:33 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST85CR-PK__2__QIREeIOcoD0.png?updatedAt=1632528816388"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:34 - Row :93 - Product imported successfully.
+04-29-2022 @ 07:18:34 - Row :94 - Parsing item.
+04-29-2022 @ 07:18:34 - Importing as new product ID:638
+04-29-2022 @ 07:18:34 - Row :94 - Processing item.
+04-29-2022 @ 07:18:34 - Found simple product object. ID:638
+04-29-2022 @ 07:18:34 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST85CR-PK_Xl3_chSHB0.png?updatedAt=1632528817006"]
+04-29-2022 @ 07:18:34 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST85CR-PK_Xl3_chSHB0.png?updatedAt=1632528817006"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:34 - Row :94 - Product imported successfully.
+04-29-2022 @ 07:18:34 - Row :95 - Parsing item.
+04-29-2022 @ 07:18:34 - Importing as new product ID:639
+04-29-2022 @ 07:18:34 - Row :95 - Processing item.
+04-29-2022 @ 07:18:34 - Found simple product object. ID:639
+04-29-2022 @ 07:18:34 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW76BBZ2_iIhOAs8whi.png?updatedAt=1632529915075"]
+04-29-2022 @ 07:18:34 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW76BBZ2_iIhOAs8whi.png?updatedAt=1632529915075"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:34 - Row :95 - Product imported successfully.
+04-29-2022 @ 07:18:34 - Row :96 - Parsing item.
+04-29-2022 @ 07:18:34 - Importing as new product ID:640
+04-29-2022 @ 07:18:34 - Row :96 - Processing item.
+04-29-2022 @ 07:18:35 - Found simple product object. ID:640
+04-29-2022 @ 07:18:35 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ326X1-MK_lwxlHWyF-2.png?updatedAt=1632534705724"]
+04-29-2022 @ 07:18:35 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ326X1-MK_lwxlHWyF-2.png?updatedAt=1632534705724"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:35 - Row :96 - Product imported successfully.
+04-29-2022 @ 07:18:35 - Row :97 - Parsing item.
+04-29-2022 @ 07:18:35 - Importing as new product ID:641
+04-29-2022 @ 07:18:35 - Row :97 - Processing item.
+04-29-2022 @ 07:18:35 - Found simple product object. ID:641
+04-29-2022 @ 07:18:35 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_LG_FM1208N-3W_TdqJ1VhzVu.png?updatedAt=1632535214035"]
+04-29-2022 @ 07:18:35 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_LG_FM1208N-3W_TdqJ1VhzVu.png?updatedAt=1632535214035"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:35 - Row :97 - Product imported successfully.
+04-29-2022 @ 07:18:35 - Row :98 - Parsing item.
+04-29-2022 @ 07:18:35 - Importing as new product ID:642
+04-29-2022 @ 07:18:35 - Row :98 - Processing item.
+04-29-2022 @ 07:18:35 - Found simple product object. ID:642
+04-29-2022 @ 07:18:35 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_LG_43UP7750_Za0nH2w8DbJ.png?updatedAt=1632536299938"]
+04-29-2022 @ 07:18:35 - URL:["https://ik.imagekit.io/eropa/products/LED_LG_43UP7750_Za0nH2w8DbJ.png?updatedAt=1632536299938"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:36 - Row :98 - Product imported successfully.
+04-29-2022 @ 07:18:36 - Row :99 - Parsing item.
+04-29-2022 @ 07:18:36 - Importing as new product ID:643
+04-29-2022 @ 07:18:36 - Row :99 - Processing item.
+04-29-2022 @ 07:18:36 - Found simple product object. ID:643
+04-29-2022 @ 07:18:36 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LG_Puricare__Wearable_Air_Purifier_AP300AWFA_Njv-cf8JgUs.png?updatedAt=1632537313402","https://ik.imagekit.io/eropa/products/LG_Puricare__Wearable_Air_Purifier_AP300AWFA__2__iCtnAFk-96.png?updatedAt=1632537319579","https://ik.imagekit.io/eropa/products/LG_Puricare__Wearable_Air_Purifier_AP300AWFA__3__zMm2ZlJiiMK.png?updatedAt=1632537322530"]
+04-29-2022 @ 07:18:36 - URL:["https://ik.imagekit.io/eropa/products/LG_Puricare__Wearable_Air_Purifier_AP300AWFA_Njv-cf8JgUs.png?updatedAt=1632537313402","https://ik.imagekit.io/eropa/products/LG_Puricare__Wearable_Air_Purifier_AP300AWFA__2__iCtnAFk-96.png?updatedAt=1632537319579","https://ik.imagekit.io/eropa/products/LG_Puricare__Wearable_Air_Purifier_AP300AWFA__3__zMm2ZlJiiMK.png?updatedAt=1632537322530"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:36 - Row :99 - Product imported successfully.
+04-29-2022 @ 07:18:36 - Row :100 - Parsing item.
+04-29-2022 @ 07:18:36 - Importing as new product ID:644
+04-29-2022 @ 07:18:36 - Row :100 - Processing item.
+04-29-2022 @ 07:18:36 - Found simple product object. ID:644
+04-29-2022 @ 07:18:36 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Fryer_MITO_AF1_4L_mLiTzBUTT8H.png?updatedAt=1632538126573"]
+04-29-2022 @ 07:18:36 - URL:["https://ik.imagekit.io/eropa/products/Air_Fryer_MITO_AF1_4L_mLiTzBUTT8H.png?updatedAt=1632538126573"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:36 - Row :100 - Product imported successfully.
+04-29-2022 @ 07:18:37 - Preparing for import.
+04-29-2022 @ 07:18:37 - Row :101 - Parsing item.
+04-29-2022 @ 07:18:37 - Importing as new product ID:645
+04-29-2022 @ 07:18:37 - Row :101 - Processing item.
+04-29-2022 @ 07:18:37 - Found simple product object. ID:645
+04-29-2022 @ 07:18:37 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kipas_Karakter_ADVANCE_oGbTscC8ca.png?updatedAt=1632538552370"]
+04-29-2022 @ 07:18:37 - URL:["https://ik.imagekit.io/eropa/products/Kipas_Karakter_ADVANCE_oGbTscC8ca.png?updatedAt=1632538552370"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:38 - Row :101 - Product imported successfully.
+04-29-2022 @ 07:18:38 - Row :102 - Parsing item.
+04-29-2022 @ 07:18:38 - Importing as new product ID:646
+04-29-2022 @ 07:18:38 - Row :102 - Processing item.
+04-29-2022 @ 07:18:38 - Found simple product object. ID:646
+04-29-2022 @ 07:18:38 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW1050R_1_SiVkKuzAuC.png?updatedAt=1632539064583"]
+04-29-2022 @ 07:18:38 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW1050R_1_SiVkKuzAuC.png?updatedAt=1632539064583"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:38 - Row :102 - Product imported successfully.
+04-29-2022 @ 07:18:38 - Row :103 - Parsing item.
+04-29-2022 @ 07:18:38 - Importing as new product ID:647
+04-29-2022 @ 07:18:38 - Row :103 - Processing item.
+04-29-2022 @ 07:18:38 - Found simple product object. ID:647
+04-29-2022 @ 07:18:38 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/mesin_cuci_AQUA_QW1050XT_hoFsv8vJ6v.png?updatedAt=1632540969038"]
+04-29-2022 @ 07:18:38 - URL:["https://ik.imagekit.io/eropa/products/mesin_cuci_AQUA_QW1050XT_hoFsv8vJ6v.png?updatedAt=1632540969038"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:38 - Row :103 - Product imported successfully.
+04-29-2022 @ 07:18:38 - Row :104 - Parsing item.
+04-29-2022 @ 07:18:38 - Importing as new product ID:648
+04-29-2022 @ 07:18:38 - Row :104 - Processing item.
+04-29-2022 @ 07:18:38 - Found simple product object. ID:648
+04-29-2022 @ 07:18:38 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO15UBB__BGAtgtUu04.png?updatedAt=1632544304594"]
+04-29-2022 @ 07:18:38 - URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO15UBB__BGAtgtUu04.png?updatedAt=1632544304594"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:39 - Row :104 - Product imported successfully.
+04-29-2022 @ 07:18:39 - Row :105 - Parsing item.
+04-29-2022 @ 07:18:39 - Importing as new product ID:649
+04-29-2022 @ 07:18:39 - Row :105 - Processing item.
+04-29-2022 @ 07:18:39 - Found simple product object. ID:649
+04-29-2022 @ 07:18:39 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO20UBB_gfVnaCP5_T0.png?updatedAt=1632544877699"]
+04-29-2022 @ 07:18:39 - URL:["https://ik.imagekit.io/eropa/products/Speaker_SHARP_CBOXPRO20UBB_gfVnaCP5_T0.png?updatedAt=1632544877699"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:39 - Row :105 - Product imported successfully.
+04-29-2022 @ 07:18:39 - Row :106 - Parsing item.
+04-29-2022 @ 07:18:39 - Importing as new product ID:650
+04-29-2022 @ 07:18:39 - Row :106 - Processing item.
+04-29-2022 @ 07:18:39 - Found simple product object. ID:650
+04-29-2022 @ 07:18:39 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI712A_KWQrlQxyweI.png?updatedAt=1632548327386"]
+04-29-2022 @ 07:18:39 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI712A_KWQrlQxyweI.png?updatedAt=1632548327386"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:39 - Row :106 - Product imported successfully.
+04-29-2022 @ 07:18:39 - Row :107 - Parsing item.
+04-29-2022 @ 07:18:39 - Importing as new product ID:651
+04-29-2022 @ 07:18:39 - Row :107 - Processing item.
+04-29-2022 @ 07:18:39 - Found simple product object. ID:651
+04-29-2022 @ 07:18:39 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI602E_D9aOnZ-TvFC.png?updatedAt=1632548714923"]
+04-29-2022 @ 07:18:39 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI602E_D9aOnZ-TvFC.png?updatedAt=1632548714923"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:40 - Row :107 - Product imported successfully.
+04-29-2022 @ 07:18:40 - Row :108 - Parsing item.
+04-29-2022 @ 07:18:40 - Importing as new product ID:652
+04-29-2022 @ 07:18:40 - Row :108 - Processing item.
+04-29-2022 @ 07:18:40 - Found simple product object. ID:652
+04-29-2022 @ 07:18:40 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_Gas_RINNAI_RI524E_4iJqdH_cpWB.png?updatedAt=1632553114430"]
+04-29-2022 @ 07:18:40 - URL:["https://ik.imagekit.io/eropa/products/Kompor_Gas_RINNAI_RI524E_4iJqdH_cpWB.png?updatedAt=1632553114430"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:40 - Row :108 - Product imported successfully.
+04-29-2022 @ 07:18:40 - Row :109 - Parsing item.
+04-29-2022 @ 07:18:40 - Importing as new product ID:653
+04-29-2022 @ 07:18:40 - Row :109 - Processing item.
+04-29-2022 @ 07:18:40 - Found simple product object. ID:653
+04-29-2022 @ 07:18:40 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_MC3560_wSCkPmaLB.png?updatedAt=1632716836625"]
+04-29-2022 @ 07:18:40 - URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_MC3560_wSCkPmaLB.png?updatedAt=1632716836625"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:40 - Row :109 - Product imported successfully.
+04-29-2022 @ 07:18:40 - Row :110 - Parsing item.
+04-29-2022 @ 07:18:41 - Importing as new product ID:654
+04-29-2022 @ 07:18:41 - Row :110 - Processing item.
+04-29-2022 @ 07:18:41 - Found simple product object. ID:654
+04-29-2022 @ 07:18:41 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC4053_sfxWe_eIJR.png?updatedAt=1632717260743"]
+04-29-2022 @ 07:18:41 - URL:["https://ik.imagekit.io/eropa/products/Magic_Com_YONGMA_SMC4053_sfxWe_eIJR.png?updatedAt=1632717260743"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:41 - Row :110 - Product imported successfully.
+04-29-2022 @ 07:18:42 - Preparing for import.
+04-29-2022 @ 07:18:42 - Row :111 - Parsing item.
+04-29-2022 @ 07:18:42 - Importing as new product ID:655
+04-29-2022 @ 07:18:42 - Row :111 - Processing item.
+04-29-2022 @ 07:18:42 - Found simple product object. ID:655
+04-29-2022 @ 07:18:42 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesincuci_Aqua_AQW78DD_-hgs8ZFMi.png?updatedAt=1632717919687"]
+04-29-2022 @ 07:18:42 - URL:["https://ik.imagekit.io/eropa/products/Mesincuci_Aqua_AQW78DD_-hgs8ZFMi.png?updatedAt=1632717919687"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:42 - Row :111 - Product imported successfully.
+04-29-2022 @ 07:18:42 - Row :112 - Parsing item.
+04-29-2022 @ 07:18:42 - Importing as new product ID:656
+04-29-2022 @ 07:18:42 - Row :112 - Processing item.
+04-29-2022 @ 07:18:42 - Found simple product object. ID:656
+04-29-2022 @ 07:18:42 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_LG_24TL520V-PT_54phl6tFkM.png?updatedAt=1632718798671"]
+04-29-2022 @ 07:18:42 - URL:["https://ik.imagekit.io/eropa/products/LED_LG_24TL520V-PT_54phl6tFkM.png?updatedAt=1632718798671"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:42 - Row :112 - Product imported successfully.
+04-29-2022 @ 07:18:42 - Row :113 - Parsing item.
+04-29-2022 @ 07:18:43 - Importing as new product ID:657
+04-29-2022 @ 07:18:43 - Row :113 - Processing item.
+04-29-2022 @ 07:18:43 - Found simple product object. ID:657
+04-29-2022 @ 07:18:43 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST1290WAPK_PowbeWo8YN.png?updatedAt=1632721209108"]
+04-29-2022 @ 07:18:43 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SHARP_EST1290WAPK_PowbeWo8YN.png?updatedAt=1632721209108"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:43 - Row :113 - Product imported successfully.
+04-29-2022 @ 07:18:43 - Row :114 - Parsing item.
+04-29-2022 @ 07:18:43 - Importing as new product ID:658
+04-29-2022 @ 07:18:43 - Row :114 - Processing item.
+04-29-2022 @ 07:18:43 - Found simple product object. ID:658
+04-29-2022 @ 07:18:43 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_55TU7000_YLlqW2NKip.png?updatedAt=1632723687936"]
+04-29-2022 @ 07:18:43 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_55TU7000_YLlqW2NKip.png?updatedAt=1632723687936"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:43 - Row :114 - Product imported successfully.
+04-29-2022 @ 07:18:43 - Row :115 - Parsing item.
+04-29-2022 @ 07:18:43 - Importing as new product ID:659
+04-29-2022 @ 07:18:43 - Row :115 - Processing item.
+04-29-2022 @ 07:18:43 - Found simple product object. ID:659
+04-29-2022 @ 07:18:43 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_PHILIPS_HD1173_ClBDO1nrsR.png?updatedAt=1632730393611"]
+04-29-2022 @ 07:18:43 - URL:["https://ik.imagekit.io/eropa/products/Setrika_PHILIPS_HD1173_ClBDO1nrsR.png?updatedAt=1632730393611"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:44 - Row :115 - Product imported successfully.
+04-29-2022 @ 07:18:44 - Row :116 - Parsing item.
+04-29-2022 @ 07:18:44 - Importing as new product ID:660
+04-29-2022 @ 07:18:44 - Row :116 - Processing item.
+04-29-2022 @ 07:18:44 - Found simple product object. ID:660
+04-29-2022 @ 07:18:44 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS480X_wV7Bf9USf.png?updatedAt=1632731064236"]
+04-29-2022 @ 07:18:44 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRS480X_wV7Bf9USf.png?updatedAt=1632731064236"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:44 - Row :116 - Product imported successfully.
+04-29-2022 @ 07:18:44 - Row :117 - Parsing item.
+04-29-2022 @ 07:18:44 - Importing as new product ID:661
+04-29-2022 @ 07:18:44 - Row :117 - Processing item.
+04-29-2022 @ 07:18:44 - Found simple product object. ID:661
+04-29-2022 @ 07:18:44 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_ARISA_DWD1L_rDGTv4c0vzb.png?updatedAt=1632733958793"]
+04-29-2022 @ 07:18:44 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_ARISA_DWD1L_rDGTv4c0vzb.png?updatedAt=1632733958793"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:44 - Row :117 - Product imported successfully.
+04-29-2022 @ 07:18:44 - Row :118 - Parsing item.
+04-29-2022 @ 07:18:44 - Importing as new product ID:662
+04-29-2022 @ 07:18:44 - Row :118 - Processing item.
+04-29-2022 @ 07:18:44 - Found simple product object. ID:662
+04-29-2022 @ 07:18:44 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJIF50PMDS_n_TEA3tEgm.png?updatedAt=1632735899048"]
+04-29-2022 @ 07:18:44 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJIF50PMDS_n_TEA3tEgm.png?updatedAt=1632735899048"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:45 - Row :118 - Product imported successfully.
+04-29-2022 @ 07:18:45 - Row :119 - Parsing item.
+04-29-2022 @ 07:18:45 - Importing as new product ID:663
+04-29-2022 @ 07:18:45 - Row :119 - Processing item.
+04-29-2022 @ 07:18:45 - Found simple product object. ID:663
+04-29-2022 @ 07:18:45 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_ARISA_CWD1XL_8dAzPEtz4hP.png?updatedAt=1632796892633","https://ik.imagekit.io/eropa/products/Dispenser_ARISA_CWD1XL_3_xdVDwldYPw.png?updatedAt=1632796893855","https://ik.imagekit.io/eropa/products/Dispenser_ARISA_CWD1XL_4_Hj5-hP2E_e.png?updatedAt=1632796893026"]
+04-29-2022 @ 07:18:45 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_ARISA_CWD1XL_8dAzPEtz4hP.png?updatedAt=1632796892633","https://ik.imagekit.io/eropa/products/Dispenser_ARISA_CWD1XL_3_xdVDwldYPw.png?updatedAt=1632796893855","https://ik.imagekit.io/eropa/products/Dispenser_ARISA_CWD1XL_4_Hj5-hP2E_e.png?updatedAt=1632796893026"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:45 - Row :119 - Product imported successfully.
+04-29-2022 @ 07:18:45 - Row :120 - Parsing item.
+04-29-2022 @ 07:18:45 - Importing as new product ID:664
+04-29-2022 @ 07:18:45 - Row :120 - Processing item.
+04-29-2022 @ 07:18:45 - Found simple product object. ID:664
+04-29-2022 @ 07:18:45 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GCB247KQDV_SBS__B4jRfXv4jQ.png?updatedAt=1632798231551"]
+04-29-2022 @ 07:18:45 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_LG_GCB247KQDV_SBS__B4jRfXv4jQ.png?updatedAt=1632798231551"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:45 - Row :120 - Product imported successfully.
+04-29-2022 @ 07:18:46 - Preparing for import.
+04-29-2022 @ 07:18:46 - Row :121 - Parsing item.
+04-29-2022 @ 07:18:46 - Importing as new product ID:665
+04-29-2022 @ 07:18:46 - Row :121 - Processing item.
+04-29-2022 @ 07:18:46 - Found simple product object. ID:665
+04-29-2022 @ 07:18:46 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Microphone_TOA_ZM270_HZVjhyF2Ohm.png?updatedAt=1632799739465"]
+04-29-2022 @ 07:18:46 - URL:["https://ik.imagekit.io/eropa/products/Microphone_TOA_ZM270_HZVjhyF2Ohm.png?updatedAt=1632799739465"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:47 - Row :121 - Product imported successfully.
+04-29-2022 @ 07:18:47 - Row :122 - Parsing item.
+04-29-2022 @ 07:18:47 - Importing as new product ID:666
+04-29-2022 @ 07:18:47 - Row :122 - Processing item.
+04-29-2022 @ 07:18:47 - Found simple product object. ID:666
+04-29-2022 @ 07:18:47 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Microphone_TOA_ZM260_3HYariOpAh.png?updatedAt=1632799404487"]
+04-29-2022 @ 07:18:47 - URL:["https://ik.imagekit.io/eropa/products/Microphone_TOA_ZM260_3HYariOpAh.png?updatedAt=1632799404487"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:47 - Row :122 - Product imported successfully.
+04-29-2022 @ 07:18:47 - Row :123 - Parsing item.
+04-29-2022 @ 07:18:47 - Importing as new product ID:667
+04-29-2022 @ 07:18:47 - Row :123 - Processing item.
+04-29-2022 @ 07:18:47 - Found simple product object. ID:667
+04-29-2022 @ 07:18:47 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_PANASONIC_NRBB211QPK_Ji-2jE51lG.png?updatedAt=1632800126813"]
+04-29-2022 @ 07:18:47 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_PANASONIC_NRBB211QPK_Ji-2jE51lG.png?updatedAt=1632800126813"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:48 - Row :123 - Product imported successfully.
+04-29-2022 @ 07:18:48 - Row :124 - Parsing item.
+04-29-2022 @ 07:18:48 - Importing as new product ID:668
+04-29-2022 @ 07:18:48 - Row :124 - Processing item.
+04-29-2022 @ 07:18:48 - Found simple product object. ID:668
+04-29-2022 @ 07:18:48 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_IGNX2Y_RAgwHt8Ou.png?updatedAt=1632802801300","https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_IGNX2Y__2__47P5NdjhyP.png?updatedAt=1632802799751","https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_IGNX2Y__3__GAcitwMNwI.png?updatedAt=1632802800398"]
+04-29-2022 @ 07:18:48 - URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_IGNX2Y_RAgwHt8Ou.png?updatedAt=1632802801300","https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_IGNX2Y__2__47P5NdjhyP.png?updatedAt=1632802799751","https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_IGNX2Y__3__GAcitwMNwI.png?updatedAt=1632802800398"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:48 - Row :124 - Product imported successfully.
+04-29-2022 @ 07:18:48 - Row :125 - Parsing item.
+04-29-2022 @ 07:18:48 - Importing as new product ID:669
+04-29-2022 @ 07:18:48 - Row :125 - Processing item.
+04-29-2022 @ 07:18:48 - Found simple product object. ID:669
+04-29-2022 @ 07:18:48 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ246XG-MS_OmVDXV9wFI.png?updatedAt=1632803966120"]
+04-29-2022 @ 07:18:48 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ246XG-MS_OmVDXV9wFI.png?updatedAt=1632803966120"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:48 - Row :125 - Product imported successfully.
+04-29-2022 @ 07:18:48 - Row :126 - Parsing item.
+04-29-2022 @ 07:18:48 - Importing as new product ID:670
+04-29-2022 @ 07:18:48 - Row :126 - Processing item.
+04-29-2022 @ 07:18:48 - Found simple product object. ID:670
+04-29-2022 @ 07:18:49 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ246XG-MR_YurfmJYRzC.png?updatedAt=1632807535554"]
+04-29-2022 @ 07:18:49 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ246XG-MR_YurfmJYRzC.png?updatedAt=1632807535554"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:49 - Row :126 - Product imported successfully.
+04-29-2022 @ 07:18:49 - Row :127 - Parsing item.
+04-29-2022 @ 07:18:49 - Importing as new product ID:671
+04-29-2022 @ 07:18:49 - Row :127 - Processing item.
+04-29-2022 @ 07:18:49 - Found simple product object. ID:671
+04-29-2022 @ 07:18:49 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ326XGMR_oCU9AQsm1T.png?updatedAt=1632807662988"]
+04-29-2022 @ 07:18:49 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ326XGMR_oCU9AQsm1T.png?updatedAt=1632807662988"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:49 - Row :127 - Product imported successfully.
+04-29-2022 @ 07:18:49 - Row :128 - Parsing item.
+04-29-2022 @ 07:18:49 - Importing as new product ID:672
+04-29-2022 @ 07:18:49 - Row :128 - Processing item.
+04-29-2022 @ 07:18:49 - Found simple product object. ID:672
+04-29-2022 @ 07:18:49 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRX212R_HXU2G3ZnujO.png?updatedAt=1632809440292"]
+04-29-2022 @ 07:18:49 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRX212R_HXU2G3ZnujO.png?updatedAt=1632809440292"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:49 - Row :128 - Product imported successfully.
+04-29-2022 @ 07:18:49 - Row :129 - Parsing item.
+04-29-2022 @ 07:18:50 - Importing as new product ID:673
+04-29-2022 @ 07:18:50 - Row :129 - Processing item.
+04-29-2022 @ 07:18:50 - Found simple product object. ID:673
+04-29-2022 @ 07:18:50 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM9366H_1wzx5yOlLTx.png?updatedAt=1632810241277"]
+04-29-2022 @ 07:18:50 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM9366H_1wzx5yOlLTx.png?updatedAt=1632810241277"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:50 - Row :129 - Product imported successfully.
+04-29-2022 @ 07:18:50 - Row :130 - Parsing item.
+04-29-2022 @ 07:18:50 - Importing as new product ID:674
+04-29-2022 @ 07:18:50 - Row :130 - Processing item.
+04-29-2022 @ 07:18:50 - Found simple product object. ID:674
+04-29-2022 @ 07:18:50 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM752_CswNw3oxG.png?updatedAt=1632819168601"]
+04-29-2022 @ 07:18:50 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM752_CswNw3oxG.png?updatedAt=1632819168601"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:50 - Row :130 - Product imported successfully.
+04-29-2022 @ 07:18:51 - Preparing for import.
+04-29-2022 @ 07:18:51 - Row :131 - Parsing item.
+04-29-2022 @ 07:18:51 - Importing as new product ID:675
+04-29-2022 @ 07:18:51 - Row :131 - Processing item.
+04-29-2022 @ 07:18:51 - Found simple product object. ID:675
+04-29-2022 @ 07:18:51 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM752G_OdkSbDJ8AY.png?updatedAt=1632819167924"]
+04-29-2022 @ 07:18:51 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM752G_OdkSbDJ8AY.png?updatedAt=1632819167924"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:51 - Row :131 - Product imported successfully.
+04-29-2022 @ 07:18:51 - Row :132 - Parsing item.
+04-29-2022 @ 07:18:51 - Importing as new product ID:676
+04-29-2022 @ 07:18:51 - Row :132 - Processing item.
+04-29-2022 @ 07:18:51 - Found simple product object. ID:676
+04-29-2022 @ 07:18:51 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW980XT_miSe-j0T8.png?updatedAt=1632821808372"]
+04-29-2022 @ 07:18:51 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW980XT_miSe-j0T8.png?updatedAt=1632821808372"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:52 - Row :132 - Product imported successfully.
+04-29-2022 @ 07:18:52 - Row :133 - Parsing item.
+04-29-2022 @ 07:18:52 - Importing as new product ID:677
+04-29-2022 @ 07:18:52 - Row :133 - Processing item.
+04-29-2022 @ 07:18:52 - Found simple product object. ID:677
+04-29-2022 @ 07:18:52 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW125FCV1_JlLJwXKiZs.png?updatedAt=1632878724806"]
+04-29-2022 @ 07:18:52 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAW125FCV1_JlLJwXKiZs.png?updatedAt=1632878724806"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:52 - Row :133 - Product imported successfully.
+04-29-2022 @ 07:18:52 - Row :134 - Parsing item.
+04-29-2022 @ 07:18:52 - Importing as new product ID:678
+04-29-2022 @ 07:18:52 - Row :134 - Processing item.
+04-29-2022 @ 07:18:52 - Found simple product object. ID:678
+04-29-2022 @ 07:18:52 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_LG_P8000N_60J8Prp4nyG.png?updatedAt=1632880013399"]
+04-29-2022 @ 07:18:52 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_LG_P8000N_60J8Prp4nyG.png?updatedAt=1632880013399"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:52 - Row :134 - Product imported successfully.
+04-29-2022 @ 07:18:52 - Row :135 - Parsing item.
+04-29-2022 @ 07:18:52 - Importing as new product ID:679
+04-29-2022 @ 07:18:52 - Row :135 - Processing item.
+04-29-2022 @ 07:18:52 - Found simple product object. ID:679
+04-29-2022 @ 07:18:52 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_355IG_hl10mB5Vc.png?updatedAt=1632882356152"]
+04-29-2022 @ 07:18:52 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_355IG_hl10mB5Vc.png?updatedAt=1632882356152"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:53 - Row :135 - Product imported successfully.
+04-29-2022 @ 07:18:53 - Row :136 - Parsing item.
+04-29-2022 @ 07:18:53 - Importing as new product ID:680
+04-29-2022 @ 07:18:53 - Row :136 - Processing item.
+04-29-2022 @ 07:18:53 - Found simple product object. ID:680
+04-29-2022 @ 07:18:53 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_AQRD270DS_htE-85nYX.png?updatedAt=1632891578203"]
+04-29-2022 @ 07:18:53 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_AQRD270DS_htE-85nYX.png?updatedAt=1632891578203"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:53 - Row :136 - Product imported successfully.
+04-29-2022 @ 07:18:53 - Row :137 - Parsing item.
+04-29-2022 @ 07:18:53 - Importing as new product ID:681
+04-29-2022 @ 07:18:53 - Row :137 - Processing item.
+04-29-2022 @ 07:18:53 - Found simple product object. ID:681
+04-29-2022 @ 07:18:53 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRW29MNX_a4lg9AQTX.png?updatedAt=1632895016473"]
+04-29-2022 @ 07:18:53 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRW29MNX_a4lg9AQTX.png?updatedAt=1632895016473"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:53 - Row :137 - Product imported successfully.
+04-29-2022 @ 07:18:53 - Row :138 - Parsing item.
+04-29-2022 @ 07:18:53 - Importing as new product ID:682
+04-29-2022 @ 07:18:53 - Row :138 - Processing item.
+04-29-2022 @ 07:18:53 - Found simple product object. ID:682
+04-29-2022 @ 07:18:53 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ237MGDP_-_Kulkas_SHARP_SJ237MGDB_F6PMHrg26.png?updatedAt=1632895532527"]
+04-29-2022 @ 07:18:53 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ237MGDP_-_Kulkas_SHARP_SJ237MGDB_F6PMHrg26.png?updatedAt=1632895532527"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:54 - Row :138 - Product imported successfully.
+04-29-2022 @ 07:18:54 - Row :139 - Parsing item.
+04-29-2022 @ 07:18:54 - Importing as new product ID:683
+04-29-2022 @ 07:18:54 - Row :139 - Processing item.
+04-29-2022 @ 07:18:54 - Found simple product object. ID:683
+04-29-2022 @ 07:18:54 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRW25MNR_sF41ap2rt.png?updatedAt=1632896115949"]
+04-29-2022 @ 07:18:54 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRW25MNR_sF41ap2rt.png?updatedAt=1632896115949"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:54 - Row :139 - Product imported successfully.
+04-29-2022 @ 07:18:54 - Row :140 - Parsing item.
+04-29-2022 @ 07:18:54 - Importing as new product ID:684
+04-29-2022 @ 07:18:54 - Row :140 - Processing item.
+04-29-2022 @ 07:18:54 - Found simple product object. ID:684
+04-29-2022 @ 07:18:54 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRW25MN_t7dQ2cVnM.png?updatedAt=1632896545724"]
+04-29-2022 @ 07:18:54 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRW25MN_t7dQ2cVnM.png?updatedAt=1632896545724"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:54 - Row :140 - Product imported successfully.
+04-29-2022 @ 07:18:55 - Preparing for import.
+04-29-2022 @ 07:18:55 - Row :141 - Parsing item.
+04-29-2022 @ 07:18:55 - Importing as new product ID:685
+04-29-2022 @ 07:18:55 - Row :141 - Processing item.
+04-29-2022 @ 07:18:55 - Found simple product object. ID:685
+04-29-2022 @ 07:18:55 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511E_mLshFNFyt.png?updatedAt=1632897236556"]
+04-29-2022 @ 07:18:55 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511E_mLshFNFyt.png?updatedAt=1632897236556"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:55 - Row :141 - Product imported successfully.
+04-29-2022 @ 07:18:55 - Row :142 - Parsing item.
+04-29-2022 @ 07:18:56 - Importing as new product ID:686
+04-29-2022 @ 07:18:56 - Row :142 - Processing item.
+04-29-2022 @ 07:18:56 - Found simple product object. ID:686
+04-29-2022 @ 07:18:56 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511C_du1PqHHFy.png?updatedAt=1632897643538"]
+04-29-2022 @ 07:18:56 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI511C_du1PqHHFy.png?updatedAt=1632897643538"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:56 - Row :142 - Product imported successfully.
+04-29-2022 @ 07:18:56 - Row :143 - Parsing item.
+04-29-2022 @ 07:18:56 - Importing as new product ID:687
+04-29-2022 @ 07:18:56 - Row :143 - Processing item.
+04-29-2022 @ 07:18:56 - Found simple product object. ID:687
+04-29-2022 @ 07:18:56 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRA15MNX_3VlXHRR_I.png?updatedAt=1632898140571"]
+04-29-2022 @ 07:18:56 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRA15MNX_3VlXHRR_I.png?updatedAt=1632898140571"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:56 - Row :143 - Product imported successfully.
+04-29-2022 @ 07:18:56 - Row :144 - Parsing item.
+04-29-2022 @ 07:18:56 - Importing as new product ID:688
+04-29-2022 @ 07:18:56 - Row :144 - Processing item.
+04-29-2022 @ 07:18:56 - Found simple product object. ID:688
+04-29-2022 @ 07:18:56 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD75L_X1NOk89l5eN.png?updatedAt=1632898185285"]
+04-29-2022 @ 07:18:56 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD75L_X1NOk89l5eN.png?updatedAt=1632898185285"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:57 - Row :144 - Product imported successfully.
+04-29-2022 @ 07:18:57 - Row :145 - Parsing item.
+04-29-2022 @ 07:18:57 - Importing as new product ID:689
+04-29-2022 @ 07:18:57 - Row :145 - Processing item.
+04-29-2022 @ 07:18:57 - Found simple product object. ID:689
+04-29-2022 @ 07:18:57 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW851XT_2bMz0can9.png?updatedAt=1632898848756"]
+04-29-2022 @ 07:18:57 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW851XT_2bMz0can9.png?updatedAt=1632898848756"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:57 - Row :145 - Product imported successfully.
+04-29-2022 @ 07:18:57 - Row :146 - Parsing item.
+04-29-2022 @ 07:18:57 - Importing as new product ID:690
+04-29-2022 @ 07:18:57 - Row :146 - Processing item.
+04-29-2022 @ 07:18:57 - Found simple product object. ID:690
+04-29-2022 @ 07:18:57 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW950XT_b09RFBh8_.png?updatedAt=1632899420830"]
+04-29-2022 @ 07:18:57 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW950XT_b09RFBh8_.png?updatedAt=1632899420830"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:57 - Row :146 - Product imported successfully.
+04-29-2022 @ 07:18:57 - Row :147 - Parsing item.
+04-29-2022 @ 07:18:57 - Importing as new product ID:691
+04-29-2022 @ 07:18:57 - Row :147 - Processing item.
+04-29-2022 @ 07:18:57 - Found simple product object. ID:691
+04-29-2022 @ 07:18:57 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD7302L_dt5AF8LCB.png?updatedAt=1632903875808"]
+04-29-2022 @ 07:18:57 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD7302L_dt5AF8LCB.png?updatedAt=1632903875808"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:58 - Row :147 - Product imported successfully.
+04-29-2022 @ 07:18:58 - Row :148 - Parsing item.
+04-29-2022 @ 07:18:58 - Importing as new product ID:692
+04-29-2022 @ 07:18:58 - Row :148 - Processing item.
+04-29-2022 @ 07:18:58 - Found simple product object. ID:692
+04-29-2022 @ 07:18:58 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW910DD_tcfGOy5zG.png?updatedAt=1632904037316"]
+04-29-2022 @ 07:18:58 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_AQW910DD_tcfGOy5zG.png?updatedAt=1632904037316"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:58 - Row :148 - Product imported successfully.
+04-29-2022 @ 07:18:58 - Row :149 - Parsing item.
+04-29-2022 @ 07:18:58 - Importing as new product ID:693
+04-29-2022 @ 07:18:58 - Row :149 - Processing item.
+04-29-2022 @ 07:18:58 - Found simple product object. ID:693
+04-29-2022 @ 07:18:58 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD_65L_HEmHyp58C.png?updatedAt=1632904569110","https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD_65L_2_Jnd-WHFWm.png?updatedAt=1632904569746"]
+04-29-2022 @ 07:18:58 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD_65L_HEmHyp58C.png?updatedAt=1632904569110","https://ik.imagekit.io/eropa/products/Dispenser_MODENA_DD_65L_2_Jnd-WHFWm.png?updatedAt=1632904569746"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:58 - Row :149 - Product imported successfully.
+04-29-2022 @ 07:18:58 - Row :150 - Parsing item.
+04-29-2022 @ 07:18:58 - Importing as new product ID:694
+04-29-2022 @ 07:18:58 - Row :150 - Processing item.
+04-29-2022 @ 07:18:58 - Found simple product object. ID:694
+04-29-2022 @ 07:18:58 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW751XT_cXEsFifcA.png?updatedAt=1632904748775"]
+04-29-2022 @ 07:18:58 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW751XT_cXEsFifcA.png?updatedAt=1632904748775"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:18:59 - Row :150 - Product imported successfully.
+04-29-2022 @ 07:18:59 - Preparing for import.
+04-29-2022 @ 07:18:59 - Row :151 - Parsing item.
+04-29-2022 @ 07:18:59 - Importing as new product ID:695
+04-29-2022 @ 07:18:59 - Row :151 - Processing item.
+04-29-2022 @ 07:18:59 - Found simple product object. ID:695
+04-29-2022 @ 07:19:00 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM751B_NRbnZgYEg.png?updatedAt=1632905391526"]
+04-29-2022 @ 07:19:00 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM751B_NRbnZgYEg.png?updatedAt=1632905391526"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:00 - Row :151 - Product imported successfully.
+04-29-2022 @ 07:19:00 - Row :152 - Parsing item.
+04-29-2022 @ 07:19:00 - Importing as new product ID:696
+04-29-2022 @ 07:19:00 - Row :152 - Processing item.
+04-29-2022 @ 07:19:00 - Found simple product object. ID:696
+04-29-2022 @ 07:19:00 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM751R_RlcgbWT3y.png?updatedAt=1632905751558"]
+04-29-2022 @ 07:19:00 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PWM751R_RlcgbWT3y.png?updatedAt=1632905751558"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:00 - Row :152 - Product imported successfully.
+04-29-2022 @ 07:19:00 - Row :153 - Parsing item.
+04-29-2022 @ 07:19:00 - Importing as new product ID:697
+04-29-2022 @ 07:19:00 - Row :153 - Processing item.
+04-29-2022 @ 07:19:00 - Found simple product object. ID:697
+04-29-2022 @ 07:19:00 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Oven_SHARP_EO-18L_B2Y9TUJAG.png?updatedAt=1632906034935"]
+04-29-2022 @ 07:19:00 - URL:["https://ik.imagekit.io/eropa/products/Oven_SHARP_EO-18L_B2Y9TUJAG.png?updatedAt=1632906034935"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:00 - Row :153 - Product imported successfully.
+04-29-2022 @ 07:19:00 - Row :154 - Parsing item.
+04-29-2022 @ 07:19:00 - Importing as new product ID:698
+04-29-2022 @ 07:19:01 - Row :154 - Processing item.
+04-29-2022 @ 07:19:01 - Found simple product object. ID:698
+04-29-2022 @ 07:19:01 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PAW7527_IWM-qvCbA.png?updatedAt=1632907459664"]
+04-29-2022 @ 07:19:01 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_POLYTRON_PAW7527_IWM-qvCbA.png?updatedAt=1632907459664"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:01 - Row :154 - Product imported successfully.
+04-29-2022 @ 07:19:01 - Row :155 - Parsing item.
+04-29-2022 @ 07:19:01 - Importing as new product ID:699
+04-29-2022 @ 07:19:01 - Row :155 - Processing item.
+04-29-2022 @ 07:19:01 - Found simple product object. ID:699
+04-29-2022 @ 07:19:01 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAF80MB1_zavtRSxdN.png?updatedAt=1632967067284"]
+04-29-2022 @ 07:19:01 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_PANASONIC_NAF80MB1_zavtRSxdN.png?updatedAt=1632967067284"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:01 - Row :155 - Product imported successfully.
+04-29-2022 @ 07:19:01 - Row :156 - Parsing item.
+04-29-2022 @ 07:19:01 - Importing as new product ID:700
+04-29-2022 @ 07:19:01 - Row :156 - Processing item.
+04-29-2022 @ 07:19:01 - Found simple product object. ID:700
+04-29-2022 @ 07:19:01 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SAMSUNG_70H4000SG_AQl5gRrKrI.png?updatedAt=1632990964081"]
+04-29-2022 @ 07:19:01 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_SAMSUNG_70H4000SG_AQl5gRrKrI.png?updatedAt=1632990964081"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:01 - Row :156 - Product imported successfully.
+04-29-2022 @ 07:19:01 - Row :157 - Parsing item.
+04-29-2022 @ 07:19:02 - Importing as new product ID:701
+04-29-2022 @ 07:19:02 - Row :157 - Processing item.
+04-29-2022 @ 07:19:02 - Found simple product object. ID:701
+04-29-2022 @ 07:19:02 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Oven_MITO_MO777_zCwRSmbdm.png?updatedAt=1632991698536"]
+04-29-2022 @ 07:19:02 - URL:["https://ik.imagekit.io/eropa/products/Oven_MITO_MO777_zCwRSmbdm.png?updatedAt=1632991698536"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:02 - Row :157 - Product imported successfully.
+04-29-2022 @ 07:19:02 - Row :158 - Parsing item.
+04-29-2022 @ 07:19:02 - Importing as new product ID:702
+04-29-2022 @ 07:19:02 - Row :158 - Processing item.
+04-29-2022 @ 07:19:02 - Found simple product object. ID:702
+04-29-2022 @ 07:19:02 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mixer_Com_TURBO_EHM9595_T5aSP0Zd5.png?updatedAt=1632993318015"]
+04-29-2022 @ 07:19:02 - URL:["https://ik.imagekit.io/eropa/products/Mixer_Com_TURBO_EHM9595_T5aSP0Zd5.png?updatedAt=1632993318015"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:02 - Row :158 - Product imported successfully.
+04-29-2022 @ 07:19:02 - Row :159 - Parsing item.
+04-29-2022 @ 07:19:02 - Importing as new product ID:703
+04-29-2022 @ 07:19:02 - Row :159 - Processing item.
+04-29-2022 @ 07:19:02 - Found simple product object. ID:703
+04-29-2022 @ 07:19:02 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD32D1550_VR-6XSgwW.png?updatedAt=1632993855078"]
+04-29-2022 @ 07:19:02 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD32D1550_VR-6XSgwW.png?updatedAt=1632993855078"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:03 - Row :159 - Product imported successfully.
+04-29-2022 @ 07:19:03 - Row :160 - Parsing item.
+04-29-2022 @ 07:19:03 - Importing as new product ID:704
+04-29-2022 @ 07:19:03 - Row :160 - Processing item.
+04-29-2022 @ 07:19:03 - Found simple product object. ID:704
+04-29-2022 @ 07:19:03 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW881XT_vqNJxpl5V.png?updatedAt=1632994228737"]
+04-29-2022 @ 07:19:03 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW881XT_vqNJxpl5V.png?updatedAt=1632994228737"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:03 - Row :160 - Product imported successfully.
+04-29-2022 @ 07:19:04 - Preparing for import.
+04-29-2022 @ 07:19:04 - Row :161 - Parsing item.
+04-29-2022 @ 07:19:04 - Importing as new product ID:705
+04-29-2022 @ 07:19:04 - Row :161 - Processing item.
+04-29-2022 @ 07:19:04 - Found simple product object. ID:705
+04-29-2022 @ 07:19:04 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW780XT_C7q3GzpN2.png?updatedAt=1632994556275"]
+04-29-2022 @ 07:19:04 - URL:["https://ik.imagekit.io/eropa/products/Mesin_Cuci_AQUA_QW780XT_C7q3GzpN2.png?updatedAt=1632994556275"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:04 - Row :161 - Product imported successfully.
+04-29-2022 @ 07:19:04 - Row :162 - Parsing item.
+04-29-2022 @ 07:19:04 - Importing as new product ID:706
+04-29-2022 @ 07:19:04 - Row :162 - Processing item.
+04-29-2022 @ 07:19:04 - Found simple product object. ID:706
+04-29-2022 @ 07:19:04 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Water_Heater_MODENA_GI_0632V_tHJ00IUS-.png?updatedAt=1632995321018"]
+04-29-2022 @ 07:19:04 - URL:["https://ik.imagekit.io/eropa/products/Water_Heater_MODENA_GI_0632V_tHJ00IUS-.png?updatedAt=1632995321018"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:04 - Row :162 - Product imported successfully.
+04-29-2022 @ 07:19:04 - Row :163 - Parsing item.
+04-29-2022 @ 07:19:04 - Importing as new product ID:707
+04-29-2022 @ 07:19:04 - Row :163 - Processing item.
+04-29-2022 @ 07:19:04 - Found simple product object. ID:707
+04-29-2022 @ 07:19:05 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_PAS8E22_fqmpo01vO.png?updatedAt=1633053905420"]
+04-29-2022 @ 07:19:05 - URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_PAS8E22_fqmpo01vO.png?updatedAt=1633053905420"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:05 - Row :163 - Product imported successfully.
+04-29-2022 @ 07:19:05 - Row :164 - Parsing item.
+04-29-2022 @ 07:19:05 - Importing as new product ID:708
+04-29-2022 @ 07:19:05 - Row :164 - Processing item.
+04-29-2022 @ 07:19:05 - Found simple product object. ID:708
+04-29-2022 @ 07:19:05 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_MIYAKO_WD186H_PQEsasCet.png?updatedAt=1633096980135","https://ik.imagekit.io/eropa/products/Dispenser_MIYAKO_WD186H_4_kE8XjTixUV.png?updatedAt=1633096980218"]
+04-29-2022 @ 07:19:05 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_MIYAKO_WD186H_PQEsasCet.png?updatedAt=1633096980135","https://ik.imagekit.io/eropa/products/Dispenser_MIYAKO_WD186H_4_kE8XjTixUV.png?updatedAt=1633096980218"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:05 - Row :164 - Product imported successfully.
+04-29-2022 @ 07:19:05 - Row :165 - Parsing item.
+04-29-2022 @ 07:19:05 - Importing as new product ID:709
+04-29-2022 @ 07:19:05 - Row :165 - Processing item.
+04-29-2022 @ 07:19:05 - Found simple product object. ID:709
+04-29-2022 @ 07:19:05 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_COSMOS_CWD1150_pT4Hxpp1U.png?updatedAt=1633097114844"]
+04-29-2022 @ 07:19:05 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_COSMOS_CWD1150_pT4Hxpp1U.png?updatedAt=1633097114844"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:05 - Row :165 - Product imported successfully.
+04-29-2022 @ 07:19:05 - Row :166 - Parsing item.
+04-29-2022 @ 07:19:06 - Importing as new product ID:710
+04-29-2022 @ 07:19:06 - Row :166 - Processing item.
+04-29-2022 @ 07:19:06 - Found simple product object. ID:710
+04-29-2022 @ 07:19:06 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_COSMOS_CWD1138_0AB0colss.png?updatedAt=1633097375441","https://ik.imagekit.io/eropa/products/Dispenser_COSMOS_CWD1138_dOhuWhjdiCx.png?updatedAt=1633097376073"]
+04-29-2022 @ 07:19:06 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_COSMOS_CWD1138_0AB0colss.png?updatedAt=1633097375441","https://ik.imagekit.io/eropa/products/Dispenser_COSMOS_CWD1138_dOhuWhjdiCx.png?updatedAt=1633097376073"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:06 - Row :166 - Product imported successfully.
+04-29-2022 @ 07:19:06 - Row :167 - Parsing item.
+04-29-2022 @ 07:19:06 - Importing as new product ID:711
+04-29-2022 @ 07:19:06 - Row :167 - Processing item.
+04-29-2022 @ 07:19:06 - Found simple product object. ID:711
+04-29-2022 @ 07:19:06 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/PHILIP_HR1552_EA3unTzqA.png?updatedAt=1633097474084"]
+04-29-2022 @ 07:19:06 - URL:["https://ik.imagekit.io/eropa/products/PHILIP_HR1552_EA3unTzqA.png?updatedAt=1633097474084"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:06 - Row :167 - Product imported successfully.
+04-29-2022 @ 07:19:06 - Row :168 - Parsing item.
+04-29-2022 @ 07:19:06 - Importing as new product ID:712
+04-29-2022 @ 07:19:06 - Row :168 - Processing item.
+04-29-2022 @ 07:19:06 - Found simple product object. ID:712
+04-29-2022 @ 07:19:06 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_PTS2K25_rDkytGUyH.png?updatedAt=1633098116846"]
+04-29-2022 @ 07:19:06 - URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_PTS2K25_rDkytGUyH.png?updatedAt=1633098116846"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:06 - Row :168 - Product imported successfully.
+04-29-2022 @ 07:19:06 - Row :169 - Parsing item.
+04-29-2022 @ 07:19:06 - Importing as new product ID:713
+04-29-2022 @ 07:19:06 - Row :169 - Processing item.
+04-29-2022 @ 07:19:07 - Found simple product object. ID:713
+04-29-2022 @ 07:19:07 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_PAS2A15BA_smVc6mt8U.png?updatedAt=1633099064897"]
+04-29-2022 @ 07:19:07 - URL:["https://ik.imagekit.io/eropa/products/Speaker_POLYTRON_PAS2A15BA_smVc6mt8U.png?updatedAt=1633099064897"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:07 - Row :169 - Product imported successfully.
+04-29-2022 @ 07:19:07 - Row :170 - Parsing item.
+04-29-2022 @ 07:19:07 - Importing as new product ID:714
+04-29-2022 @ 07:19:07 - Row :170 - Processing item.
+04-29-2022 @ 07:19:07 - Found simple product object. ID:714
+04-29-2022 @ 07:19:07 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Showcase_POLYTRON_SCN186W_k6ZEQeo3BPI.png?updatedAt=1633099677910"]
+04-29-2022 @ 07:19:07 - URL:["https://ik.imagekit.io/eropa/products/Showcase_POLYTRON_SCN186W_k6ZEQeo3BPI.png?updatedAt=1633099677910"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:07 - Row :170 - Product imported successfully.
+04-29-2022 @ 07:19:08 - Preparing for import.
+04-29-2022 @ 07:19:08 - Row :171 - Parsing item.
+04-29-2022 @ 07:19:08 - Importing as new product ID:715
+04-29-2022 @ 07:19:08 - Row :171 - Processing item.
+04-29-2022 @ 07:19:08 - Found simple product object. ID:715
+04-29-2022 @ 07:19:08 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_43N5500AK_mE9MKB6vT4.png?updatedAt=1633100323481"]
+04-29-2022 @ 07:19:08 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_43N5500AK_mE9MKB6vT4.png?updatedAt=1633100323481"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:08 - Row :171 - Product imported successfully.
+04-29-2022 @ 07:19:08 - Row :172 - Parsing item.
+04-29-2022 @ 07:19:08 - Importing as new product ID:716
+04-29-2022 @ 07:19:08 - Row :172 - Processing item.
+04-29-2022 @ 07:19:08 - Found simple product object. ID:716
+04-29-2022 @ 07:19:08 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_43N5001AK_SbS4lDXVAQl.png?updatedAt=1633141998731"]
+04-29-2022 @ 07:19:08 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_43N5001AK_SbS4lDXVAQl.png?updatedAt=1633141998731"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:09 - Row :172 - Product imported successfully.
+04-29-2022 @ 07:19:09 - Row :173 - Parsing item.
+04-29-2022 @ 07:19:09 - Importing as new product ID:717
+04-29-2022 @ 07:19:09 - Row :173 - Processing item.
+04-29-2022 @ 07:19:09 - Found simple product object. ID:717
+04-29-2022 @ 07:19:09 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_43J5202AK_hVwuBv2PK.png?updatedAt=1633143470318"]
+04-29-2022 @ 07:19:09 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_43J5202AK_hVwuBv2PK.png?updatedAt=1633143470318"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:09 - Row :173 - Product imported successfully.
+04-29-2022 @ 07:19:09 - Row :174 - Parsing item.
+04-29-2022 @ 07:19:09 - Importing as new product ID:718
+04-29-2022 @ 07:19:09 - Row :174 - Processing item.
+04-29-2022 @ 07:19:09 - Found simple product object. ID:718
+04-29-2022 @ 07:19:09 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_UA43TU7000K_vYy-h18TT.png?updatedAt=1633148983015"]
+04-29-2022 @ 07:19:09 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_UA43TU7000K_vYy-h18TT.png?updatedAt=1633148983015"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:09 - Row :174 - Product imported successfully.
+04-29-2022 @ 07:19:09 - Row :175 - Parsing item.
+04-29-2022 @ 07:19:09 - Importing as new product ID:719
+04-29-2022 @ 07:19:09 - Row :175 - Processing item.
+04-29-2022 @ 07:19:09 - Found simple product object. ID:719
+04-29-2022 @ 07:19:09 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRA17ANR_-nOVsFLEa.png?updatedAt=1633150317818"]
+04-29-2022 @ 07:19:09 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRA17ANR_-nOVsFLEa.png?updatedAt=1633150317818"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:10 - Row :175 - Product imported successfully.
+04-29-2022 @ 07:19:10 - Row :176 - Parsing item.
+04-29-2022 @ 07:19:10 - Importing as new product ID:720
+04-29-2022 @ 07:19:10 - Row :176 - Processing item.
+04-29-2022 @ 07:19:10 - Found simple product object. ID:720
+04-29-2022 @ 07:19:10 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_24D1850_djCSvswyf.png?updatedAt=1633152588983"]
+04-29-2022 @ 07:19:10 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_24D1850_djCSvswyf.png?updatedAt=1633152588983"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:10 - Row :176 - Product imported successfully.
+04-29-2022 @ 07:19:10 - Row :177 - Parsing item.
+04-29-2022 @ 07:19:10 - Importing as new product ID:721
+04-29-2022 @ 07:19:10 - Row :177 - Processing item.
+04-29-2022 @ 07:19:10 - Found simple product object. ID:721
+04-29-2022 @ 07:19:10 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD32AG9953_jNDnr3flqFL.png?updatedAt=1633155073983"]
+04-29-2022 @ 07:19:10 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD32AG9953_jNDnr3flqFL.png?updatedAt=1633155073983"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:10 - Row :177 - Product imported successfully.
+04-29-2022 @ 07:19:10 - Row :178 - Parsing item.
+04-29-2022 @ 07:19:10 - Importing as new product ID:722
+04-29-2022 @ 07:19:10 - Row :178 - Processing item.
+04-29-2022 @ 07:19:10 - Found simple product object. ID:722
+04-29-2022 @ 07:19:10 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/Deskfan_cosmos_9LDA_Sif6b_almcW.png?updatedAt=1633331523714","https://ik.imagekit.io/eropa/Deskfan_cosmos_9LDA_3_AgPDJfMuw.jpg?updatedAt=1633331524194","https://ik.imagekit.io/eropa/Deskfan_cosmos_9LDA_2_I7S_HRC2j.jpg?updatedAt=1633331524867"]
+04-29-2022 @ 07:19:10 - URL:["https://ik.imagekit.io/eropa/Deskfan_cosmos_9LDA_Sif6b_almcW.png?updatedAt=1633331523714","https://ik.imagekit.io/eropa/Deskfan_cosmos_9LDA_3_AgPDJfMuw.jpg?updatedAt=1633331524194","https://ik.imagekit.io/eropa/Deskfan_cosmos_9LDA_2_I7S_HRC2j.jpg?updatedAt=1633331524867"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:11 - Row :178 - Product imported successfully.
+04-29-2022 @ 07:19:11 - Row :179 - Parsing item.
+04-29-2022 @ 07:19:11 - Importing as new product ID:723
+04-29-2022 @ 07:19:11 - Row :179 - Processing item.
+04-29-2022 @ 07:19:11 - Found simple product object. ID:723
+04-29-2022 @ 07:19:11 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Chopper_TURBO_EHM8330_8zef-emMNZz.png?updatedAt=1633334148433"]
+04-29-2022 @ 07:19:11 - URL:["https://ik.imagekit.io/eropa/products/Chopper_TURBO_EHM8330_8zef-emMNZz.png?updatedAt=1633334148433"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:11 - Row :179 - Product imported successfully.
+04-29-2022 @ 07:19:11 - Row :180 - Parsing item.
+04-29-2022 @ 07:19:11 - Importing as new product ID:724
+04-29-2022 @ 07:19:11 - Row :180 - Processing item.
+04-29-2022 @ 07:19:11 - Found simple product object. ID:724
+04-29-2022 @ 07:19:11 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_maspion_F15D_Zece-_3Xk.png?updatedAt=1633334115846"]
+04-29-2022 @ 07:19:11 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_maspion_F15D_Zece-_3Xk.png?updatedAt=1633334115846"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:11 - Row :180 - Product imported successfully.
+04-29-2022 @ 07:19:13 - Preparing for import.
+04-29-2022 @ 07:19:13 - Row :181 - Parsing item.
+04-29-2022 @ 07:19:13 - Importing as new product ID:725
+04-29-2022 @ 07:19:13 - Row :181 - Processing item.
+04-29-2022 @ 07:19:13 - Found simple product object. ID:725
+04-29-2022 @ 07:19:13 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_maspion_F18D_jScUPQJ82.png?updatedAt=1633334964434"]
+04-29-2022 @ 07:19:13 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_maspion_F18D_jScUPQJ82.png?updatedAt=1633334964434"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:13 - Row :181 - Product imported successfully.
+04-29-2022 @ 07:19:13 - Row :182 - Parsing item.
+04-29-2022 @ 07:19:13 - Importing as new product ID:726
+04-29-2022 @ 07:19:13 - Row :182 - Processing item.
+04-29-2022 @ 07:19:13 - Found simple product object. ID:726
+04-29-2022 @ 07:19:13 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_606_0_6_L_BDUvT3fH2SV.png?updatedAt=1633336259237","https://ik.imagekit.io/eropa/products/Miyako_mcm_606__4_s4QeavBir.png?updatedAt=1633336259349"]
+04-29-2022 @ 07:19:13 - URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_606_0_6_L_BDUvT3fH2SV.png?updatedAt=1633336259237","https://ik.imagekit.io/eropa/products/Miyako_mcm_606__4_s4QeavBir.png?updatedAt=1633336259349"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:14 - Row :182 - Product imported successfully.
+04-29-2022 @ 07:19:14 - Row :183 - Parsing item.
+04-29-2022 @ 07:19:14 - Importing as new product ID:727
+04-29-2022 @ 07:19:14 - Row :183 - Processing item.
+04-29-2022 @ 07:19:14 - Found simple product object. ID:727
+04-29-2022 @ 07:19:14 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Setrika_Cosmos_CIS_428_zduRyoaCm.png?updatedAt=1633335414792"]
+04-29-2022 @ 07:19:14 - URL:["https://ik.imagekit.io/eropa/products/Setrika_Cosmos_CIS_428_zduRyoaCm.png?updatedAt=1633335414792"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:14 - Row :183 - Product imported successfully.
+04-29-2022 @ 07:19:14 - Row :184 - Parsing item.
+04-29-2022 @ 07:19:14 - Importing as new product ID:728
+04-29-2022 @ 07:19:14 - Row :184 - Processing item.
+04-29-2022 @ 07:19:14 - Found simple product object. ID:728
+04-29-2022 @ 07:19:14 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_maspion_F23D_NWaClHA7I.png?updatedAt=1633335945609"]
+04-29-2022 @ 07:19:14 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_maspion_F23D_NWaClHA7I.png?updatedAt=1633335945609"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:14 - Row :184 - Product imported successfully.
+04-29-2022 @ 07:19:14 - Row :185 - Parsing item.
+04-29-2022 @ 07:19:14 - Importing as new product ID:729
+04-29-2022 @ 07:19:14 - Row :185 - Processing item.
+04-29-2022 @ 07:19:15 - Found simple product object. ID:729
+04-29-2022 @ 07:19:15 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_612_1.2_L_pI_D67XKoBi.png?updatedAt=1633336317613","https://ik.imagekit.io/eropa/products/Miyako_mcm_612_1.2_L_5_atmIBJV9j.png?updatedAt=1633336318284","https://ik.imagekit.io/eropa/products/Miyako_mcm_612_1.2_L_4__l0wyOE2v.png?updatedAt=1633336319183"]
+04-29-2022 @ 07:19:15 - URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_612_1.2_L_pI_D67XKoBi.png?updatedAt=1633336317613","https://ik.imagekit.io/eropa/products/Miyako_mcm_612_1.2_L_5_atmIBJV9j.png?updatedAt=1633336318284","https://ik.imagekit.io/eropa/products/Miyako_mcm_612_1.2_L_4__l0wyOE2v.png?updatedAt=1633336319183"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:15 - Row :185 - Product imported successfully.
+04-29-2022 @ 07:19:15 - Row :186 - Parsing item.
+04-29-2022 @ 07:19:15 - Importing as new product ID:730
+04-29-2022 @ 07:19:15 - Row :186 - Processing item.
+04-29-2022 @ 07:19:15 - Found simple product object. ID:730
+04-29-2022 @ 07:19:15 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_GMC_702_Dvs6_IqSO.png?updatedAt=1633336389670"]
+04-29-2022 @ 07:19:15 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_GMC_702_Dvs6_IqSO.png?updatedAt=1633336389670"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:15 - Row :186 - Product imported successfully.
+04-29-2022 @ 07:19:15 - Row :187 - Parsing item.
+04-29-2022 @ 07:19:15 - Importing as new product ID:731
+04-29-2022 @ 07:19:15 - Row :187 - Processing item.
+04-29-2022 @ 07:19:15 - Found simple product object. ID:731
+04-29-2022 @ 07:19:15 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Deskfan_GMC_708_URL66iw4d.png?updatedAt=1633336843619"]
+04-29-2022 @ 07:19:15 - URL:["https://ik.imagekit.io/eropa/products/Deskfan_GMC_708_URL66iw4d.png?updatedAt=1633336843619"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:16 - Row :187 - Product imported successfully.
+04-29-2022 @ 07:19:16 - Row :188 - Parsing item.
+04-29-2022 @ 07:19:16 - Importing as new product ID:732
+04-29-2022 @ 07:19:16 - Row :188 - Processing item.
+04-29-2022 @ 07:19:16 - Found simple product object. ID:732
+04-29-2022 @ 07:19:16 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Sharp_Microwave_R-21D0_S_-IN_IqaTn7aot.png?updatedAt=1633337311272"]
+04-29-2022 @ 07:19:16 - URL:["https://ik.imagekit.io/eropa/products/Sharp_Microwave_R-21D0_S_-IN_IqaTn7aot.png?updatedAt=1633337311272"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:16 - Row :188 - Product imported successfully.
+04-29-2022 @ 07:19:16 - Row :189 - Parsing item.
+04-29-2022 @ 07:19:16 - Importing as new product ID:733
+04-29-2022 @ 07:19:16 - Row :189 - Processing item.
+04-29-2022 @ 07:19:16 - Found simple product object. ID:733
+04-29-2022 @ 07:19:16 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_509_5L8GpaHNF.png?updatedAt=1633338502550","https://ik.imagekit.io/eropa/products/Miyako_mcm_509_3_ht3HFGCS2.png?updatedAt=1633338502842"]
+04-29-2022 @ 07:19:16 - URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_509_5L8GpaHNF.png?updatedAt=1633338502550","https://ik.imagekit.io/eropa/products/Miyako_mcm_509_3_ht3HFGCS2.png?updatedAt=1633338502842"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:16 - Row :189 - Product imported successfully.
+04-29-2022 @ 07:19:16 - Row :190 - Parsing item.
+04-29-2022 @ 07:19:16 - Importing as new product ID:734
+04-29-2022 @ 07:19:16 - Row :190 - Processing item.
+04-29-2022 @ 07:19:16 - Found simple product object. ID:734
+04-29-2022 @ 07:19:16 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/kipas_angin_wall_fan_maspion_MWF41k_wfPT1lLYA.png?updatedAt=1633338216281","https://ik.imagekit.io/eropa/products/kipas_angin_wall_fan_maspion_MWF41k_4_my9PdG2KC.png?updatedAt=1633338216426","https://ik.imagekit.io/eropa/products/kipas_angin_wall_fan_maspion_MWF41k_3_4sFxLJ5jSSz.png?updatedAt=1633338217350"]
+04-29-2022 @ 07:19:16 - URL:["https://ik.imagekit.io/eropa/products/kipas_angin_wall_fan_maspion_MWF41k_wfPT1lLYA.png?updatedAt=1633338216281","https://ik.imagekit.io/eropa/products/kipas_angin_wall_fan_maspion_MWF41k_4_my9PdG2KC.png?updatedAt=1633338216426","https://ik.imagekit.io/eropa/products/kipas_angin_wall_fan_maspion_MWF41k_3_4sFxLJ5jSSz.png?updatedAt=1633338217350"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:17 - Row :190 - Product imported successfully.
+04-29-2022 @ 07:19:18 - Preparing for import.
+04-29-2022 @ 07:19:18 - Row :191 - Parsing item.
+04-29-2022 @ 07:19:18 - Importing as new product ID:735
+04-29-2022 @ 07:19:18 - Row :191 - Processing item.
+04-29-2022 @ 07:19:18 - Found simple product object. ID:735
+04-29-2022 @ 07:19:18 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_528_mFNX8fqsr.png?updatedAt=1633338569632","https://ik.imagekit.io/eropa/products/Miyako_mcm_528_4_OOt_h-PPB.png?updatedAt=1633338569942","https://ik.imagekit.io/eropa/products/Miyako_mcm_528_2_CWp70oMan.png?updatedAt=1633338570917"]
+04-29-2022 @ 07:19:18 - URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_528_mFNX8fqsr.png?updatedAt=1633338569632","https://ik.imagekit.io/eropa/products/Miyako_mcm_528_4_OOt_h-PPB.png?updatedAt=1633338569942","https://ik.imagekit.io/eropa/products/Miyako_mcm_528_2_CWp70oMan.png?updatedAt=1633338570917"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:18 - Row :191 - Product imported successfully.
+04-29-2022 @ 07:19:18 - Row :192 - Parsing item.
+04-29-2022 @ 07:19:18 - Importing as new product ID:736
+04-29-2022 @ 07:19:18 - Row :192 - Processing item.
+04-29-2022 @ 07:19:18 - Found simple product object. ID:736
+04-29-2022 @ 07:19:18 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Rice_Cooker_Sharp_ks18mgpk_-Druf8Y5k.png?updatedAt=1633339443631"]
+04-29-2022 @ 07:19:18 - URL:["https://ik.imagekit.io/eropa/products/Rice_Cooker_Sharp_ks18mgpk_-Druf8Y5k.png?updatedAt=1633339443631"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:19 - Row :192 - Product imported successfully.
+04-29-2022 @ 07:19:19 - Row :193 - Parsing item.
+04-29-2022 @ 07:19:19 - Importing as new product ID:737
+04-29-2022 @ 07:19:19 - Row :193 - Processing item.
+04-29-2022 @ 07:19:19 - Found simple product object. ID:737
+04-29-2022 @ 07:19:19 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/SHARP_AIR_PURIFIER_MOBIL_IG-GC2Y-B_N_iOJAWx9vf.png?updatedAt=1633339891950"]
+04-29-2022 @ 07:19:19 - URL:["https://ik.imagekit.io/eropa/products/SHARP_AIR_PURIFIER_MOBIL_IG-GC2Y-B_N_iOJAWx9vf.png?updatedAt=1633339891950"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:19 - Row :193 - Product imported successfully.
+04-29-2022 @ 07:19:19 - Row :194 - Parsing item.
+04-29-2022 @ 07:19:19 - Importing as new product ID:738
+04-29-2022 @ 07:19:19 - Row :194 - Processing item.
+04-29-2022 @ 07:19:19 - Found simple product object. ID:738
+04-29-2022 @ 07:19:19 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Mixer_maspion_MT1194_H_4MnfL8X.png?updatedAt=1633341483799"]
+04-29-2022 @ 07:19:19 - URL:["https://ik.imagekit.io/eropa/products/Mixer_maspion_MT1194_H_4MnfL8X.png?updatedAt=1633341483799"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:19 - Row :194 - Product imported successfully.
+04-29-2022 @ 07:19:19 - Row :195 - Parsing item.
+04-29-2022 @ 07:19:19 - Importing as new product ID:739
+04-29-2022 @ 07:19:19 - Row :195 - Processing item.
+04-29-2022 @ 07:19:20 - Found simple product object. ID:739
+04-29-2022 @ 07:19:20 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/SAFETY_GAS_104__1.8m__PAMF_988_td_uNSLmc.png?updatedAt=1633341869727"]
+04-29-2022 @ 07:19:20 - URL:["https://ik.imagekit.io/eropa/products/SAFETY_GAS_104__1.8m__PAMF_988_td_uNSLmc.png?updatedAt=1633341869727"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:20 - Row :195 - Product imported successfully.
+04-29-2022 @ 07:19:20 - Row :196 - Parsing item.
+04-29-2022 @ 07:19:20 - Importing as new product ID:740
+04-29-2022 @ 07:19:20 - Row :196 - Processing item.
+04-29-2022 @ 07:19:20 - Found simple product object. ID:740
+04-29-2022 @ 07:19:20 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Steker_T_Arde_Broco_1383055_I7LQ-iDwZ.png?updatedAt=1633342107396"]
+04-29-2022 @ 07:19:20 - URL:["https://ik.imagekit.io/eropa/products/Steker_T_Arde_Broco_1383055_I7LQ-iDwZ.png?updatedAt=1633342107396"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:20 - Row :196 - Product imported successfully.
+04-29-2022 @ 07:19:20 - Row :197 - Parsing item.
+04-29-2022 @ 07:19:20 - Importing as new product ID:741
+04-29-2022 @ 07:19:20 - Row :197 - Processing item.
+04-29-2022 @ 07:19:20 - Found simple product object. ID:741
+04-29-2022 @ 07:19:20 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Blender_Cosmos_CB802_93sxIz7wC.png?updatedAt=1633407500610","https://ik.imagekit.io/eropa/products/blender_cosmos_cb802_7__DJy-DtD4a2.png?updatedAt=1633407500982","https://ik.imagekit.io/eropa/products/blender_cosmos_cb802_5_zU78U_8gr.png?updatedAt=1633407501856","https://ik.imagekit.io/eropa/products/blender_cosmos_cb802_zAFCXIKyk4X.jpg?updatedAt=1633407502750"]
+04-29-2022 @ 07:19:20 - URL:["https://ik.imagekit.io/eropa/products/Blender_Cosmos_CB802_93sxIz7wC.png?updatedAt=1633407500610","https://ik.imagekit.io/eropa/products/blender_cosmos_cb802_7__DJy-DtD4a2.png?updatedAt=1633407500982","https://ik.imagekit.io/eropa/products/blender_cosmos_cb802_5_zU78U_8gr.png?updatedAt=1633407501856","https://ik.imagekit.io/eropa/products/blender_cosmos_cb802_zAFCXIKyk4X.jpg?updatedAt=1633407502750"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:21 - Row :197 - Product imported successfully.
+04-29-2022 @ 07:19:21 - Row :198 - Parsing item.
+04-29-2022 @ 07:19:21 - Importing as new product ID:742
+04-29-2022 @ 07:19:21 - Row :198 - Processing item.
+04-29-2022 @ 07:19:21 - Found simple product object. ID:742
+04-29-2022 @ 07:19:21 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Rice_Cooker_Miyako_508_508wyg_daPBWxICu67.png?updatedAt=1633408373465"]
+04-29-2022 @ 07:19:21 - URL:["https://ik.imagekit.io/eropa/products/Rice_Cooker_Miyako_508_508wyg_daPBWxICu67.png?updatedAt=1633408373465"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:21 - Row :198 - Product imported successfully.
+04-29-2022 @ 07:19:21 - Row :199 - Parsing item.
+04-29-2022 @ 07:19:21 - Importing as new product ID:743
+04-29-2022 @ 07:19:21 - Row :199 - Processing item.
+04-29-2022 @ 07:19:21 - Found simple product object. ID:743
+04-29-2022 @ 07:19:21 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Rice_Cooker_Miyako_508_hijau_mDDPzfKf5.png?updatedAt=1634113695506"]
+04-29-2022 @ 07:19:21 - URL:["https://ik.imagekit.io/eropa/products/Rice_Cooker_Miyako_508_hijau_mDDPzfKf5.png?updatedAt=1634113695506"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:21 - Row :199 - Product imported successfully.
+04-29-2022 @ 07:19:21 - Row :200 - Parsing item.
+04-29-2022 @ 07:19:21 - Importing as new product ID:744
+04-29-2022 @ 07:19:21 - Row :200 - Processing item.
+04-29-2022 @ 07:19:21 - Found simple product object. ID:744
+04-29-2022 @ 07:19:21 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Over_steker_biasa_broco_13910_Xm2qS3mBC.png?updatedAt=1633410412337"]
+04-29-2022 @ 07:19:21 - URL:["https://ik.imagekit.io/eropa/products/Over_steker_biasa_broco_13910_Xm2qS3mBC.png?updatedAt=1633410412337"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:22 - Row :200 - Product imported successfully.
+04-29-2022 @ 07:19:23 - Preparing for import.
+04-29-2022 @ 07:19:23 - Row :201 - Parsing item.
+04-29-2022 @ 07:19:23 - Importing as new product ID:745
+04-29-2022 @ 07:19:23 - Row :201 - Processing item.
+04-29-2022 @ 07:19:23 - Found simple product object. ID:745
+04-29-2022 @ 07:19:23 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_18bh_C7qcS_1Dlxi.png?updatedAt=1633414075823"]
+04-29-2022 @ 07:19:23 - URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_18bh_C7qcS_1Dlxi.png?updatedAt=1633414075823"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:23 - Row :201 - Product imported successfully.
+04-29-2022 @ 07:19:23 - Row :202 - Parsing item.
+04-29-2022 @ 07:19:23 - Importing as new product ID:746
+04-29-2022 @ 07:19:23 - Row :202 - Processing item.
+04-29-2022 @ 07:19:23 - Found simple product object. ID:746
+04-29-2022 @ 07:19:23 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_507_EWbtqkjmfG9.png?updatedAt=1633415212756"]
+04-29-2022 @ 07:19:23 - URL:["https://ik.imagekit.io/eropa/products/Miyako_mcm_507_EWbtqkjmfG9.png?updatedAt=1633415212756"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:24 - Row :202 - Product imported successfully.
+04-29-2022 @ 07:19:24 - Row :203 - Parsing item.
+04-29-2022 @ 07:19:24 - Importing as new product ID:747
+04-29-2022 @ 07:19:24 - Row :203 - Processing item.
+04-29-2022 @ 07:19:24 - Found simple product object. ID:747
+04-29-2022 @ 07:19:24 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Rinnai_RI522C_2_tungku_G4u5Wplj9.png?updatedAt=1633415465656"]
+04-29-2022 @ 07:19:24 - URL:["https://ik.imagekit.io/eropa/products/Rinnai_RI522C_2_tungku_G4u5Wplj9.png?updatedAt=1633415465656"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:24 - Row :203 - Product imported successfully.
+04-29-2022 @ 07:19:24 - Row :204 - Parsing item.
+04-29-2022 @ 07:19:24 - Importing as new product ID:748
+04-29-2022 @ 07:19:24 - Row :204 - Processing item.
+04-29-2022 @ 07:19:24 - Found simple product object. ID:748
+04-29-2022 @ 07:19:24 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Quantum_Gas_Regulator_Selang_Gas_Paket_QRL032_apYwsTfm60V.png?updatedAt=1633415791783"]
+04-29-2022 @ 07:19:24 - URL:["https://ik.imagekit.io/eropa/products/Quantum_Gas_Regulator_Selang_Gas_Paket_QRL032_apYwsTfm60V.png?updatedAt=1633415791783"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:25 - Row :204 - Product imported successfully.
+04-29-2022 @ 07:19:25 - Row :205 - Parsing item.
+04-29-2022 @ 07:19:25 - Importing as new product ID:749
+04-29-2022 @ 07:19:25 - Row :205 - Processing item.
+04-29-2022 @ 07:19:25 - Found simple product object. ID:749
+04-29-2022 @ 07:19:25 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Selang_dan_regulator_gas_kompor_LPG_MIYAKO_RM106_HSiRrm232.png?updatedAt=1633416390846"]
+04-29-2022 @ 07:19:25 - URL:["https://ik.imagekit.io/eropa/products/Selang_dan_regulator_gas_kompor_LPG_MIYAKO_RM106_HSiRrm232.png?updatedAt=1633416390846"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:25 - Row :205 - Product imported successfully.
+04-29-2022 @ 07:19:25 - Row :206 - Parsing item.
+04-29-2022 @ 07:19:25 - Importing as new product ID:750
+04-29-2022 @ 07:19:25 - Row :206 - Processing item.
+04-29-2022 @ 07:19:25 - Found simple product object. ID:750
+04-29-2022 @ 07:19:25 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/oven_MITO_MO888_33LT_9Ka9xgOqH.png?updatedAt=1633416715506"]
+04-29-2022 @ 07:19:25 - URL:["https://ik.imagekit.io/eropa/products/oven_MITO_MO888_33LT_9Ka9xgOqH.png?updatedAt=1633416715506"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:25 - Row :206 - Product imported successfully.
+04-29-2022 @ 07:19:25 - Row :207 - Parsing item.
+04-29-2022 @ 07:19:25 - Importing as new product ID:751
+04-29-2022 @ 07:19:25 - Row :207 - Processing item.
+04-29-2022 @ 07:19:25 - Found simple product object. ID:751
+04-29-2022 @ 07:19:25 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/modena_VC2313_inUs01Q1fzh.png?updatedAt=1633419141550","https://ik.imagekit.io/eropa/products/VACUUM_CLEANER_MODENA_VC2313_5_AytRLihMl.png?updatedAt=1633419141985","https://ik.imagekit.io/eropa/products/VACUUM_CLEANER_MODENA_VC2313_4_TMdd6VTcc.png?updatedAt=1633419142837","https://ik.imagekit.io/eropa/products/VACUUM_CLEANER_MODENA_VC2313_3_vW7OqFIf-.png?updatedAt=1633419143903"]
+04-29-2022 @ 07:19:25 - URL:["https://ik.imagekit.io/eropa/products/modena_VC2313_inUs01Q1fzh.png?updatedAt=1633419141550","https://ik.imagekit.io/eropa/products/VACUUM_CLEANER_MODENA_VC2313_5_AytRLihMl.png?updatedAt=1633419141985","https://ik.imagekit.io/eropa/products/VACUUM_CLEANER_MODENA_VC2313_4_TMdd6VTcc.png?updatedAt=1633419142837","https://ik.imagekit.io/eropa/products/VACUUM_CLEANER_MODENA_VC2313_3_vW7OqFIf-.png?updatedAt=1633419143903"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:26 - Row :207 - Product imported successfully.
+04-29-2022 @ 07:19:26 - Row :208 - Parsing item.
+04-29-2022 @ 07:19:26 - Importing as new product ID:752
+04-29-2022 @ 07:19:26 - Row :208 - Processing item.
+04-29-2022 @ 07:19:26 - Found simple product object. ID:752
+04-29-2022 @ 07:19:26 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/EHM8098_bB8RpXR88AT.png?updatedAt=1633420149817"]
+04-29-2022 @ 07:19:26 - URL:["https://ik.imagekit.io/eropa/products/EHM8098_bB8RpXR88AT.png?updatedAt=1633420149817"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:26 - Row :208 - Product imported successfully.
+04-29-2022 @ 07:19:26 - Row :209 - Parsing item.
+04-29-2022 @ 07:19:26 - Importing as new product ID:753
+04-29-2022 @ 07:19:26 - Row :209 - Processing item.
+04-29-2022 @ 07:19:26 - Found simple product object. ID:753
+04-29-2022 @ 07:19:26 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/EHM8000_MRc4pdj2e7e.png?updatedAt=1633420673645"]
+04-29-2022 @ 07:19:26 - URL:["https://ik.imagekit.io/eropa/products/EHM8000_MRc4pdj2e7e.png?updatedAt=1633420673645"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:27 - Row :209 - Product imported successfully.
+04-29-2022 @ 07:19:27 - Row :210 - Parsing item.
+04-29-2022 @ 07:19:27 - Importing as new product ID:754
+04-29-2022 @ 07:19:27 - Row :210 - Processing item.
+04-29-2022 @ 07:19:27 - Found simple product object. ID:754
+04-29-2022 @ 07:19:27 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_KCD40YB_KlnhuDljt.png?updatedAt=1633423081690","https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_KCD40YB_3_nPzJ2gHrx-x.png?updatedAt=1633423088814"]
+04-29-2022 @ 07:19:27 - URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_KCD40YB_KlnhuDljt.png?updatedAt=1633423081690","https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_KCD40YB_3_nPzJ2gHrx-x.png?updatedAt=1633423088814"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:27 - Row :210 - Product imported successfully.
+04-29-2022 @ 07:19:28 - Preparing for import.
+04-29-2022 @ 07:19:28 - Row :211 - Parsing item.
+04-29-2022 @ 07:19:28 - Importing as new product ID:755
+04-29-2022 @ 07:19:28 - Row :211 - Processing item.
+04-29-2022 @ 07:19:28 - Found simple product object. ID:755
+04-29-2022 @ 07:19:28 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_FP-F30YH_xE8yhsRKu.png?updatedAt=1633424613605"]
+04-29-2022 @ 07:19:28 - URL:["https://ik.imagekit.io/eropa/products/Air_Purifyer_SHARP_FP-F30YH_xE8yhsRKu.png?updatedAt=1633424613605"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:28 - Row :211 - Product imported successfully.
+04-29-2022 @ 07:19:28 - Row :212 - Parsing item.
+04-29-2022 @ 07:19:28 - Importing as new product ID:756
+04-29-2022 @ 07:19:28 - Row :212 - Processing item.
+04-29-2022 @ 07:19:28 - Found simple product object. ID:756
+04-29-2022 @ 07:19:28 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/tekyoo_778_UjvZf11HUpp.png?updatedAt=1633425449999"]
+04-29-2022 @ 07:19:28 - URL:["https://ik.imagekit.io/eropa/products/tekyoo_778_UjvZf11HUpp.png?updatedAt=1633425449999"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:29 - Row :212 - Product imported successfully.
+04-29-2022 @ 07:19:29 - Row :213 - Parsing item.
+04-29-2022 @ 07:19:29 - Importing as new product ID:757
+04-29-2022 @ 07:19:29 - Row :213 - Processing item.
+04-29-2022 @ 07:19:29 - Found simple product object. ID:757
+04-29-2022 @ 07:19:29 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/gmc_888D1_O19k4Seix76.png?updatedAt=1633491876872"]
+04-29-2022 @ 07:19:29 - URL:["https://ik.imagekit.io/eropa/products/gmc_888D1_O19k4Seix76.png?updatedAt=1633491876872"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:29 - Row :213 - Product imported successfully.
+04-29-2022 @ 07:19:29 - Row :214 - Parsing item.
+04-29-2022 @ 07:19:29 - Importing as new product ID:758
+04-29-2022 @ 07:19:29 - Row :214 - Processing item.
+04-29-2022 @ 07:19:29 - Found simple product object. ID:758
+04-29-2022 @ 07:19:29 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/TURBO_EHM9000_LLeLVLn5Wta.png?updatedAt=1633492326946"]
+04-29-2022 @ 07:19:29 - URL:["https://ik.imagekit.io/eropa/products/TURBO_EHM9000_LLeLVLn5Wta.png?updatedAt=1633492326946"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:29 - Row :214 - Product imported successfully.
+04-29-2022 @ 07:19:29 - Row :215 - Parsing item.
+04-29-2022 @ 07:19:30 - Importing as new product ID:759
+04-29-2022 @ 07:19:30 - Row :215 - Processing item.
+04-29-2022 @ 07:19:30 - Found simple product object. ID:759
+04-29-2022 @ 07:19:30 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Presto_MAXIM_7LT__7LT__elN_pKQbi.png?updatedAt=1633493079097"]
+04-29-2022 @ 07:19:30 - URL:["https://ik.imagekit.io/eropa/products/Presto_MAXIM_7LT__7LT__elN_pKQbi.png?updatedAt=1633493079097"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:30 - Row :215 - Product imported successfully.
+04-29-2022 @ 07:19:30 - Row :216 - Parsing item.
+04-29-2022 @ 07:19:30 - Importing as new product ID:760
+04-29-2022 @ 07:19:30 - Row :216 - Processing item.
+04-29-2022 @ 07:19:30 - Found simple product object. ID:760
+04-29-2022 @ 07:19:30 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD24D123__uploaded__bDsd0vImz.png?updatedAt=1633509234588"]
+04-29-2022 @ 07:19:30 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD24D123__uploaded__bDsd0vImz.png?updatedAt=1633509234588"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:30 - Row :216 - Product imported successfully.
+04-29-2022 @ 07:19:30 - Row :217 - Parsing item.
+04-29-2022 @ 07:19:30 - Importing as new product ID:761
+04-29-2022 @ 07:19:30 - Row :217 - Processing item.
+04-29-2022 @ 07:19:30 - Found simple product object. ID:761
+04-29-2022 @ 07:19:30 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD24T1850_65PJQ-xA6.png?updatedAt=1633510181303"]
+04-29-2022 @ 07:19:30 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD24T1850_65PJQ-xA6.png?updatedAt=1633510181303"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:31 - Row :217 - Product imported successfully.
+04-29-2022 @ 07:19:31 - Row :218 - Parsing item.
+04-29-2022 @ 07:19:31 - Importing as new product ID:762
+04-29-2022 @ 07:19:31 - Row :218 - Processing item.
+04-29-2022 @ 07:19:31 - Found simple product object. ID:762
+04-29-2022 @ 07:19:31 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD32D1850_SZY5TkB3Daz.png?updatedAt=1633510602752"]
+04-29-2022 @ 07:19:31 - URL:["https://ik.imagekit.io/eropa/products/LED_POLYTRON_PLD32D1850_SZY5TkB3Daz.png?updatedAt=1633510602752"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:31 - Row :218 - Product imported successfully.
+04-29-2022 @ 07:19:31 - Row :219 - Parsing item.
+04-29-2022 @ 07:19:31 - Importing as new product ID:763
+04-29-2022 @ 07:19:31 - Row :219 - Processing item.
+04-29-2022 @ 07:19:31 - Found simple product object. ID:763
+04-29-2022 @ 07:19:31 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_2T-C32BA1I_wl2T7nF5b.png?updatedAt=1633512194651"]
+04-29-2022 @ 07:19:31 - URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_2T-C32BA1I_wl2T7nF5b.png?updatedAt=1633512194651"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:31 - Row :219 - Product imported successfully.
+04-29-2022 @ 07:19:31 - Row :220 - Parsing item.
+04-29-2022 @ 07:19:31 - Importing as new product ID:764
+04-29-2022 @ 07:19:31 - Row :220 - Processing item.
+04-29-2022 @ 07:19:31 - Found simple product object. ID:764
+04-29-2022 @ 07:19:31 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_LC32SA4100_IfxiRFo7Q.png?updatedAt=1633765698791"]
+04-29-2022 @ 07:19:31 - URL:["https://ik.imagekit.io/eropa/products/LED_SHARP_LC32SA4100_IfxiRFo7Q.png?updatedAt=1633765698791"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:32 - Row :220 - Product imported successfully.
+04-29-2022 @ 07:19:32 - Preparing for import.
+04-29-2022 @ 07:19:32 - Row :221 - Parsing item.
+04-29-2022 @ 07:19:33 - Importing as new product ID:765
+04-29-2022 @ 07:19:33 - Row :221 - Processing item.
+04-29-2022 @ 07:19:33 - Found simple product object. ID:765
+04-29-2022 @ 07:19:33 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_PANASONIC_24G302G_woL6tsfol.png?updatedAt=1633766219192"]
+04-29-2022 @ 07:19:33 - URL:["https://ik.imagekit.io/eropa/products/LED_PANASONIC_24G302G_woL6tsfol.png?updatedAt=1633766219192"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:33 - Row :221 - Product imported successfully.
+04-29-2022 @ 07:19:33 - Row :222 - Parsing item.
+04-29-2022 @ 07:19:33 - Importing as new product ID:766
+04-29-2022 @ 07:19:33 - Row :222 - Processing item.
+04-29-2022 @ 07:19:33 - Found simple product object. ID:766
+04-29-2022 @ 07:19:33 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_LG_32LM550BPTA_VfKxO3BuhfP.png?updatedAt=1633767163670"]
+04-29-2022 @ 07:19:33 - URL:["https://ik.imagekit.io/eropa/products/LED_LG_32LM550BPTA_VfKxO3BuhfP.png?updatedAt=1633767163670"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:33 - Row :222 - Product imported successfully.
+04-29-2022 @ 07:19:33 - Row :223 - Parsing item.
+04-29-2022 @ 07:19:33 - Importing as new product ID:767
+04-29-2022 @ 07:19:33 - Row :223 - Processing item.
+04-29-2022 @ 07:19:33 - Found simple product object. ID:767
+04-29-2022 @ 07:19:33 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_24T4001R_6CkNPLdAy.png?updatedAt=1633768529136"]
+04-29-2022 @ 07:19:33 - URL:["https://ik.imagekit.io/eropa/products/LED_SAMSUNG_24T4001R_6CkNPLdAy.png?updatedAt=1633768529136"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:34 - Row :223 - Product imported successfully.
+04-29-2022 @ 07:19:34 - Row :224 - Parsing item.
+04-29-2022 @ 07:19:34 - Importing as new product ID:768
+04-29-2022 @ 07:19:34 - Row :224 - Processing item.
+04-29-2022 @ 07:19:34 - Found simple product object. ID:768
+04-29-2022 @ 07:19:34 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG302C_aRTbIOq1W.png?updatedAt=1633769871239"]
+04-29-2022 @ 07:19:34 - URL:["https://ik.imagekit.io/eropa/products/Kompor_Gas_MIYAKO_KG302C_aRTbIOq1W.png?updatedAt=1633769871239"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:34 - Row :224 - Product imported successfully.
+04-29-2022 @ 07:19:34 - Row :225 - Parsing item.
+04-29-2022 @ 07:19:34 - Importing as new product ID:769
+04-29-2022 @ 07:19:34 - Row :225 - Processing item.
+04-29-2022 @ 07:19:34 - Found simple product object. ID:769
+04-29-2022 @ 07:19:34 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRA15ANR_pqvd8QcRU.png?updatedAt=1633771312463"]
+04-29-2022 @ 07:19:34 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRA15ANR_pqvd8QcRU.png?updatedAt=1633771312463"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:35 - Row :225 - Product imported successfully.
+04-29-2022 @ 07:19:35 - Row :226 - Parsing item.
+04-29-2022 @ 07:19:35 - Importing as new product ID:770
+04-29-2022 @ 07:19:35 - Row :226 - Processing item.
+04-29-2022 @ 07:19:35 - Found simple product object. ID:770
+04-29-2022 @ 07:19:35 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJX167MGDP_8UgcoM1Xq.png?updatedAt=1633772843121"]
+04-29-2022 @ 07:19:35 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJX167MGDP_8UgcoM1Xq.png?updatedAt=1633772843121"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:35 - Row :226 - Product imported successfully.
+04-29-2022 @ 07:19:35 - Row :227 - Parsing item.
+04-29-2022 @ 07:19:35 - Importing as new product ID:771
+04-29-2022 @ 07:19:35 - Row :227 - Processing item.
+04-29-2022 @ 07:19:35 - Found simple product object. ID:771
+04-29-2022 @ 07:19:35 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJX167MGDB_3Cr1aJ4fDTU.png?updatedAt=1633772843662"]
+04-29-2022 @ 07:19:35 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJX167MGDB_3Cr1aJ4fDTU.png?updatedAt=1633772843662"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:35 - Row :227 - Product imported successfully.
+04-29-2022 @ 07:19:35 - Row :228 - Parsing item.
+04-29-2022 @ 07:19:35 - Importing as new product ID:772
+04-29-2022 @ 07:19:35 - Row :228 - Processing item.
+04-29-2022 @ 07:19:35 - Found simple product object. ID:772
+04-29-2022 @ 07:19:35 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Stop_Kontak_BROCO_OB_SEGI1541011_ThBp1Dide.png?updatedAt=1634117045857"]
+04-29-2022 @ 07:19:35 - URL:["https://ik.imagekit.io/eropa/products/Stop_Kontak_BROCO_OB_SEGI1541011_ThBp1Dide.png?updatedAt=1634117045857"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:36 - Row :228 - Product imported successfully.
+04-29-2022 @ 07:19:36 - Row :229 - Parsing item.
+04-29-2022 @ 07:19:36 - Importing as new product ID:773
+04-29-2022 @ 07:19:36 - Row :229 - Processing item.
+04-29-2022 @ 07:19:36 - Found simple product object. ID:773
+04-29-2022 @ 07:19:36 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Lampu_Tornado_PHILIPS__L__24W_2-Q4MC6Lqh2.png?updatedAt=1634117516496"]
+04-29-2022 @ 07:19:36 - URL:["https://ik.imagekit.io/eropa/products/Lampu_Tornado_PHILIPS__L__24W_2-Q4MC6Lqh2.png?updatedAt=1634117516496"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:36 - Row :229 - Product imported successfully.
+04-29-2022 @ 07:19:36 - Row :230 - Parsing item.
+04-29-2022 @ 07:19:36 - Importing as new product ID:774
+04-29-2022 @ 07:19:36 - Row :230 - Processing item.
+04-29-2022 @ 07:19:36 - Found simple product object. ID:774
+04-29-2022 @ 07:19:36 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ195MD-SG_BM3PBwQv4.png?updatedAt=1634349937603"]
+04-29-2022 @ 07:19:36 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJ195MD-SG_BM3PBwQv4.png?updatedAt=1634349937603"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:36 - Row :230 - Product imported successfully.
+04-29-2022 @ 07:19:38 - Preparing for import.
+04-29-2022 @ 07:19:38 - Row :231 - Parsing item.
+04-29-2022 @ 07:19:38 - Importing as new product ID:775
+04-29-2022 @ 07:19:38 - Row :231 - Processing item.
+04-29-2022 @ 07:19:38 - Found simple product object. ID:775
+04-29-2022 @ 07:19:38 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB239_rnhomE_yO.png?updatedAt=1634350544712"]
+04-29-2022 @ 07:19:38 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_POLYTRON_PRB239_rnhomE_yO.png?updatedAt=1634350544712"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:38 - Row :231 - Product imported successfully.
+04-29-2022 @ 07:19:38 - Row :232 - Parsing item.
+04-29-2022 @ 07:19:38 - Importing as new product ID:776
+04-29-2022 @ 07:19:38 - Row :232 - Processing item.
+04-29-2022 @ 07:19:38 - Found simple product object. ID:776
+04-29-2022 @ 07:19:38 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS62R5041B4_4gW_aFcIN.png?updatedAt=1634351305900","https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS62R5041B4_3_V_esRTac-.png?updatedAt=1634351306093","https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS62R5041B4_2_l4SCRrtCB.png?updatedAt=1634351307767"]
+04-29-2022 @ 07:19:38 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS62R5041B4_4gW_aFcIN.png?updatedAt=1634351305900","https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS62R5041B4_3_V_esRTac-.png?updatedAt=1634351306093","https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS62R5041B4_2_l4SCRrtCB.png?updatedAt=1634351307767"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:39 - Row :232 - Product imported successfully.
+04-29-2022 @ 07:19:39 - Row :233 - Parsing item.
+04-29-2022 @ 07:19:39 - Importing as new product ID:777
+04-29-2022 @ 07:19:39 - Row :233 - Processing item.
+04-29-2022 @ 07:19:39 - Found simple product object. ID:777
+04-29-2022 @ 07:19:39 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS61R5001M9__Side_by_side__zRyddYaHS.png?updatedAt=1634352147614"]
+04-29-2022 @ 07:19:39 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SAMSUNG_RS61R5001M9__Side_by_side__zRyddYaHS.png?updatedAt=1634352147614"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:39 - Row :233 - Product imported successfully.
+04-29-2022 @ 07:19:39 - Row :234 - Parsing item.
+04-29-2022 @ 07:19:39 - Importing as new product ID:778
+04-29-2022 @ 07:19:39 - Row :234 - Processing item.
+04-29-2022 @ 07:19:39 - Found simple product object. ID:778
+04-29-2022 @ 07:19:39 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJIG571PG-BK_ws3mr1CAn.png?updatedAt=1634352648335"]
+04-29-2022 @ 07:19:39 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_SHARP_SJIG571PG-BK_ws3mr1CAn.png?updatedAt=1634352648335"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:39 - Row :234 - Product imported successfully.
+04-29-2022 @ 07:19:39 - Row :235 - Parsing item.
+04-29-2022 @ 07:19:39 - Importing as new product ID:779
+04-29-2022 @ 07:19:39 - Row :235 - Processing item.
+04-29-2022 @ 07:19:39 - Found simple product object. ID:779
+04-29-2022 @ 07:19:39 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_PANASONIC_NRBV320QSID_lVe8Yk5PQ.png?updatedAt=1634353224575"]
+04-29-2022 @ 07:19:39 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_PANASONIC_NRBV320QSID_lVe8Yk5PQ.png?updatedAt=1634353224575"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:40 - Row :235 - Product imported successfully.
+04-29-2022 @ 07:19:40 - Row :236 - Parsing item.
+04-29-2022 @ 07:19:40 - Importing as new product ID:780
+04-29-2022 @ 07:19:40 - Row :236 - Processing item.
+04-29-2022 @ 07:19:40 - Found simple product object. ID:780
+04-29-2022 @ 07:19:40 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_AQRD191LK_Q-urXCHlC.png?updatedAt=1634353581976"]
+04-29-2022 @ 07:19:40 - URL:["https://ik.imagekit.io/eropa/products/Kulkas_AQUA_AQRD191LK_Q-urXCHlC.png?updatedAt=1634353581976"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:40 - Row :236 - Product imported successfully.
+04-29-2022 @ 07:19:40 - Row :237 - Parsing item.
+04-29-2022 @ 07:19:40 - Importing as new product ID:781
+04-29-2022 @ 07:19:40 - Row :237 - Processing item.
+04-29-2022 @ 07:19:40 - Found simple product object. ID:781
+04-29-2022 @ 07:19:40 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Remote_JITU_SAMSUNG_-C6-QtNf0Y7.png?updatedAt=1634354396948"]
+04-29-2022 @ 07:19:40 - URL:["https://ik.imagekit.io/eropa/products/Remote_JITU_SAMSUNG_-C6-QtNf0Y7.png?updatedAt=1634354396948"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:40 - Row :237 - Product imported successfully.
+04-29-2022 @ 07:19:40 - Row :238 - Parsing item.
+04-29-2022 @ 07:19:40 - Importing as new product ID:782
+04-29-2022 @ 07:19:40 - Row :238 - Processing item.
+04-29-2022 @ 07:19:40 - Found simple product object. ID:782
+04-29-2022 @ 07:19:41 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI524A_C3IzxMOvH.png?updatedAt=1634358894395"]
+04-29-2022 @ 07:19:41 - URL:["https://ik.imagekit.io/eropa/products/Kompor_RINNAI_RI524A_C3IzxMOvH.png?updatedAt=1634358894395"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:41 - Row :238 - Product imported successfully.
+04-29-2022 @ 07:19:41 - Row :239 - Parsing item.
+04-29-2022 @ 07:19:41 - Importing as new product ID:783
+04-29-2022 @ 07:19:41 - Row :239 - Processing item.
+04-29-2022 @ 07:19:41 - Found simple product object. ID:783
+04-29-2022 @ 07:19:41 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Dispenser_MIYAKO_WD190PH_cw5dFwsdq.png?updatedAt=1634359549915"]
+04-29-2022 @ 07:19:41 - URL:["https://ik.imagekit.io/eropa/products/Dispenser_MIYAKO_WD190PH_cw5dFwsdq.png?updatedAt=1634359549915"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:41 - Row :239 - Product imported successfully.
+04-29-2022 @ 07:19:41 - Row :240 - Parsing item.
+04-29-2022 @ 07:19:41 - Importing as new product ID:784
+04-29-2022 @ 07:19:41 - Row :240 - Processing item.
+04-29-2022 @ 07:19:41 - Found simple product object. ID:784
+04-29-2022 @ 07:19:41 - Setting Featured Image. URL:["https://ik.imagekit.io/eropa/products/Lampu_Tornado_PHILIPS__L__5W_5wxqf6cbB.png?updatedAt=1635676975941"]
+04-29-2022 @ 07:19:41 - URL:["https://ik.imagekit.io/eropa/products/Lampu_Tornado_PHILIPS__L__5W_5wxqf6cbB.png?updatedAt=1635676975941"] Reason:Error getting remote image . Error: Invalid URL Provided.
+04-29-2022 @ 07:19:42 - Row :240 - Product imported successfully.
